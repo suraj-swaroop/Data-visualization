@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Drama.Directors.Michael Curtiz",
+    "imports": [
+      "Drama.Producers.Warner Bros",
+      "Drama.Profit in $.3424761",
+      "Drama.Actors.Humphrey Bogart",
+      "Drama.Actors.Ingrid Bergman"
+    ]
+  },
+  {
+    "name": "Drama.Directors.Albert Lewin",
+    "imports": [
+      "Drama.Producers.Dorkay Productions",
+      "Drama.Loss in $.1468195",
+      "Drama.Actors.James Mason",
+      "Drama.Actors.Ava Gardner"
+    ]
+  },
+  {
+    "name": "Drama.Directors.Fred Zinnemann",
+    "imports": [
+      "Drama.Producers.Columbia Pictures",
+      "Drama.Loss in $.1613584",
+      "Drama.Actors.Burt Lancaster",
+      "Drama.Actors.Montgomery Clift"
+    ]
+  },
+  {
+    "name": "Drama.Directors.Joseph L Mankiewicz",
+    "imports": [
+      "Drama.Producers.Twentieth Century Fox",
+      "Drama.Profit in $.13777778",
+      "Drama.Actors.Elizabeth Taylor",
+      "Drama.Actors.Richard Burton"
+    ]
+  },
+  {
+    "name": "Drama.Directors.Stanley Kramer",
+    "imports": [
+      "Drama.Producers.Casey Productions",
+      "Drama.Profit in $.36932858",
+      "Drama.Actors.Spencer Tracy",
+      "Drama.Actors.Milton Berle"
+    ]
+  },
+  {
+    "name": "Drama.Directors.Wolfgang Reitherman",
+    "imports": [
+      "Drama.Producers.Walt Disney Productions",
+      "Drama.Profit in $.9000000",
+      "Drama.Actors.Sebastian Cabot",
+      "Drama.Actors.Karl Swenson"
+    ]
+  },
+  {
+    "name": "Drama.Directors.Clyde Geronimi",
+    "imports": [
+      "Drama.Producers.Walt Disney Productions",
+      "Drama.Profit in $.9000000",
+      "Drama.Actors.Sebastian Cabot",
+      "Drama.Actors.Karl Swenson"
+    ]
+  },
+  {
+    "name": "Drama.Directors.Sergio Leone",
+    "imports": [
+      "Drama.Producers.Produzioni Europee Associate (PEA)",
+      "Drama.Profit in $.14400000",
+      "Drama.Actors.Clint Eastwood",
+      "Drama.Actors.Lee Van Cleef"
+    ]
+  },
+  {
+    "name": "Drama.Directors.Lewis Gilbert",
+    "imports": [
+      "Drama.Producers.Eon Productions",
+      "Drama.Profit in $.33584787",
+      "Drama.Actors.Sean Connery",
+      "Drama.Actors.Akiko Wakabayashi"
+    ]
+  },
+  {
+    "name": "Drama.Directors.George A Romero",
+    "imports": [
+      "Drama.Producers.Image Ten",
+      "Drama.Profit in $.122452",
+      "Drama.Actors.Duane Jones",
+      "Drama.Actors.Judith O Dea"
+    ]
+  },
+  {
+    "name": "Drama.Directors.Dennis Hopper",
+    "imports": ["Drama.Producers.Pando Company Inc", "Drama.Loss in $.236724", "Drama.Actors.Peter Fonda", "Drama.Actors.Dennis Hopper"]
+  },
+  {
+    "name": "Drama.Directors.Don Siegel",
+    "imports": [
+      "Drama.Producers.Universal Pictures",
+      "Drama.Profit in $.2550000",
+      "Drama.Actors.Shirley MacLaine",
+      "Drama.Actors.Clint Eastwood"
+    ]
+  },
+  {
+    "name": "Drama.Directors.Norman Jewison",
+    "imports": [
+      "Drama.Producers.The Mirisch Production Company",
+      "Drama.Profit in $.1404330",
+      "Drama.Actors.Topol",
+      "Drama.Actors.Norma Crane"
+    ]
+  },
+  {
+    "name": "Drama.Directors.William Friedkin",
+    "imports": ["Drama.Producers.Philip D Antoni Productions", "Drama.Profit in $.49900000", "Drama.Actors.Gene Hackman", "Drama.Actors.Fernando Rey"]
+  },
+  {
+    "name": "Drama.Directors.Mel Stuart",
+    "imports": [
+      "Drama.Producers.Wolper Pictures",
+      "Drama.Loss in $.2472919",
+      "Drama.Actors.Gene Wilder",
+      "Drama.Actors.Jack Albertson"
+    ]
+  },
+  {
+    "name": "Drama.Directors.Ronald Neame",
+    "imports": [
+      "Drama.Producers.Twentieth Century Fox",
+      "Drama.Profit in $.79563118",
+      "Drama.Actors.Gene Hackman",
+      "Drama.Actors.Ernest Borgnine"
+    ]
+  },
+  {
+    "name": "Drama.Directors.Sidney Lumet",
+    "imports": [
+      "Drama.Producers.Artists Entertainment Complex",
+      "Drama.Profit in $.26829963",
+      "Drama.Actors.Al Pacino",
+      "Drama.Actors.John Randolph"
+    ]
+  },
+  {
+    "name": "Drama.Directors.Alejandro Jodorowsky",
+    "imports": [
+      "Drama.Producers.ABKCO Films",
+      "Drama.Loss in $.645840",
+      "Drama.Actors.Alejandro Jodorowsky",
+      "Drama.Actors.Horacio Salinas"
+    ]
+  },
+  {
+    "name": "Drama.Directors.Robert Altman",
+    "imports": [
+      "Drama.Producers.ABC Entertainment",
+      "Drama.Profit in $.7784123",
+      "Drama.Actors.David Arkin",
+      "Drama.Actors.Barbara Baxley"
+    ]
+  },
+  {
+    "name": "Drama.Directors.Martin Scorsese",
+    "imports": [
+      "Drama.Producers.Columbia Pictures",
+      "Drama.Profit in $.27141292",
+      "Drama.Actors.Diahnne Abbott",
+      "Drama.Actors.Frank Adu"
+    ]
+  },
+  {
+    "name": "Drama.Directors.Mel Brooks",
+    "imports": [
+      "Drama.Producers.Crossbow Productions",
+      "Drama.Profit in $.27048038",
+      "Drama.Actors.Mel Brooks",
+      "Drama.Actors.Madeline Kahn"
+    ]
+  },
+  {
+    "name": "Drama.Directors.Hal Needham",
+    "imports": [
+      "Drama.Producers.Universal Pictures",
+      "Drama.Profit in $.122437428",
+      "Drama.Actors.Burt Reynolds",
+      "Drama.Actors.Sally Field"
+    ]
+  },
+  {
+    "name": "Drama.Directors.Sam Peckinpah",
+    "imports": [
+      "Drama.Producers.EMI Films",
+      "Drama.Profit in $.10765081",
+      "Drama.Actors.Kris Kristofferson",
+      "Drama.Actors.Ali MacGraw"
+    ]
+  },
+  {
+    "name": "Drama.Directors.Terrence Malick",
+    "imports": [
+      "Drama.Producers.Paramount Pictures",
+      "Drama.Profit in $.475702",
+      "Drama.Actors.Richard Gere",
+      "Drama.Actors.Brooke Adams"
+    ]
+  },
+  {
+    "name": "Drama.Directors.Philip Kaufman",
+    "imports": [
+      "Drama.Producers.Solofilm",
+      "Drama.Profit in $.21446533",
+      "Drama.Actors.Donald Sutherland",
+      "Drama.Actors.Brooke Adams"
+    ]
+  },
+  {
+    "name": "Drama.Directors.Richard Donner",
+    "imports": [
+      "Drama.Producers.Dovemead Films",
+      "Drama.Profit in $.245451667",
+      "Drama.Actors.Marlon Brando",
+      "Drama.Actors.Gene Hackman"
+    ]
+  },
+  {
+    "name": "Drama.Directors.Steven Spielberg",
+    "imports": [
+      "Drama.Producers.Universal Pictures",
+      "Drama.Profit in $.57455742",
+      "Drama.Actors.Dan Aykroyd",
+      "Drama.Actors.Ned Beatty"
+    ]
+  },
+  {
+    "name": "Drama.Directors.Gary Nelson",
+    "imports": [
+      "Drama.Producers.Walt Disney Productions",
+      "Drama.Profit in $.15841901",
+      "Drama.Actors.Maximilian Schell",
+      "Drama.Actors.Anthony Perkins"
+    ]
+  },
+  {
+    "name": "Drama.Directors.Carroll Ballard",
+    "imports": [
+      "Drama.Producers.Omni Zoetrope",
+      "Drama.Profit in $.35099643",
+      "Drama.Actors.Kelly Reno",
+      "Drama.Actors.Mickey Rooney"
+    ]
+  },
+  {
+    "name": "Drama.Directors.Robert Aldrich",
+    "imports": [
+      "Drama.Producers.Warner Bros",
+      "Drama.Profit in $.346177",
+      "Drama.Actors.Gene Wilder",
+      "Drama.Actors.Harrison Ford"
+    ]
+  },
+  {
+    "name": "Drama.Producers.Warner Bros",
+    "imports": []
+  },
+  {
+    "name": "Drama.Producers.Dorkay Productions",
+    "imports": []
+  },
+  {
+    "name": "Drama.Producers.Columbia Pictures",
+    "imports": []
+  },
+  {
+    "name": "Drama.Producers.Twentieth Century Fox",
+    "imports": []
+  },
+  {
+    "name": "Drama.Producers.Casey Productions",
+    "imports": []
+  },
+  {
+    "name": "Drama.Producers.Walt Disney Productions",
+    "imports": []
+  },
+  {
+    "name": "Drama.Producers.Produzioni Europee Associate (PEA)",
+    "imports": []
+  },
+  {
+    "name": "Drama.Producers.Eon Productions",
+    "imports": []
+  },
+  {
+    "name": "Drama.Producers.Image Ten",
+    "imports": []
+  },
+  {
+    "name": "Drama.Producers.Pando Company Inc",
+    "imports": []
+  },
+  {
+    "name": "Drama.Producers.Universal Pictures",
+    "imports": []
+  },
+  {
+    "name": "Drama.Producers.The Mirisch Production Company",
+    "imports": []
+  },
+  {
+    "name": "Drama.Producers.Philip D Antoni Productions",
+    "imports": []
+  },
+  {
+    "name": "Drama.Producers.Wolper Pictures",
+    "imports": []
+  },
+  {
+    "name": "Drama.Producers.Artists Entertainment Complex",
+    "imports": []
+  },
+  {
+    "name": "Drama.Producers.ABKCO Films",
+    "imports": []
+  },
+  {
+    "name": "Drama.Producers.ABC Entertainment",
+    "imports": []
+  },
+  {
+    "name": "Drama.Producers.Crossbow Productions",
+    "imports": []
+  },
+  {
+    "name": "Drama.Producers.Universal Pictures",
+    "imports": []
+  },
+  {
+    "name": "Drama.Producers.EMI Films",
+    "imports": []
+  },
+  {
+    "name": "Drama.Producers.Paramount Pictures",
+    "imports": []
+  },
+  {
+    "name": "Drama.Producers.Solofilm",
+    "imports": []
+  },
+  {
+    "name": "Drama.Producers.Dovemead Films",
+    "imports": []
+  },
+  {
+    "name": "Drama.Producers.Omni Zoetrope",
+    "imports": []
+  },
+  {
+    "name": "Drama.Profit in $.3424761",
+    "imports": []
+  },
+  {
+    "name": "Drama.Profit in $.9000000",
+    "imports": []
+  },
+  {
+    "name": "Drama.Loss in $.1468195",
+    "imports": []
+  },
+  {
+    "name": "Drama.Loss in $.1613584",
+    "imports": []
+  },
+  {
+    "name": "Drama.Profit in $.13777778",
+    "imports": []
+  },
+  {
+    "name": "Drama.Profit in $.36932858",
+    "imports": []
+  },
+  {
+    "name": "Drama.Profit in $.14400000",
+    "imports": []
+  },
+  {
+    "name": "Drama.Profit in $.33584787",
+    "imports": []
+  },
+  {
+    "name": "Drama.Profit in $.122452",
+    "imports": []
+  },
+  {
+    "name": "Drama.Loss in $.236724",
+    "imports": []
+  },
+  {
+    "name": "Drama.Profit in $.2550000",
+    "imports": []
+  },
+  {
+    "name": "Drama.Profit in $.1404330",
+    "imports": []
+  },
+  {
+    "name": "Drama.Profit in $.49900000",
+    "imports": []
+  },
+  {
+    "name": "Drama.Loss in $.2472919",
+    "imports": []
+  },
+  {
+    "name": "Drama.Profit in $.79563118",
+    "imports": []
+  },
+  {
+    "name": "Drama.Profit in $.26829963",
+    "imports": []
+  },
+  {
+    "name": "Drama.Loss in $.645840",
+    "imports": []
+  },
+  {
+    "name": "Drama.Profit in $.7784123",
+    "imports": []
+  },
+  {
+    "name": "Drama.Profit in $.27141292",
+    "imports": []
+  },
+  {
+    "name": "Drama.Profit in $.27048038",
+    "imports": []
+  },
+  {
+    "name": "Drama.Profit in $.122437428",
+    "imports": []
+  },
+  {
+    "name": "Drama.Profit in $.10765081",
+    "imports": []
+  },
+  {
+    "name": "Drama.Profit in $.475702",
+    "imports": []
+  },
+  {
+    "name": "Drama.Profit in $.21446533",
+    "imports": []
+  },
+  {
+    "name": "Drama.Profit in $.245451667",
+    "imports": []
+  },
+  {
+    "name": "Drama.Profit in $.57455742",
+    "imports": []
+  },
+  {
+    "name": "Drama.Profit in $.15841901",
+    "imports": []
+  },
+  {
+    "name": "Drama.Profit in $.35099643",
+    "imports": []
+  },
+  {
+    "name": "Drama.Profit in $.346177",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Humphrey Bogart",
+    "imports": ["Drama.Actors.Ingrid Bergman"]
+  },
+  {
+    "name": "Drama.Actors.James Mason",
+    "imports": ["Drama.Actors.Ava Gardner"]
+  },
+  {
+    "name": "Drama.Actors.Burt Lancaster",
+    "imports": ["Drama.Actors.Montgomery Clift"]
+  },
+  {
+    "name": "Drama.Actors.Elizabeth Taylor",
+    "imports": ["Drama.Actors.Richard Burton"]
+  },
+  {
+    "name": "Drama.Actors.Spencer Tracy",
+    "imports": ["Drama.Actors.Milton Berle"]
+  },
+  {
+    "name": "Drama.Actors.Sebastian Cabot",
+    "imports": ["Drama.Actors.Karl Swenson"]
+  },
+  {
+    "name": "Drama.Actors.Clint Eastwood",
+    "imports": ["Drama.Actors.Lee Van Cleef"]
+  },
+  {
+    "name": "Drama.Actors.Sean Connery",
+    "imports": ["Drama.Actors.Akiko Wakabayashi"]
+  },
+  {
+    "name": "Drama.Actors.Duane Jones",
+    "imports": ["Drama.Actors.Judith O Dea"]
+  },
+  {
+    "name": "Drama.Actors.Peter Fonda",
+    "imports": ["Drama.Actors.Dennis Hopper"]
+  },
+  {
+    "name": "Drama.Actors.Shirley MacLaine",
+    "imports": ["Drama.Actors.Clint Eastwood"]
+  },
+  {
+    "name": "Drama.Actors.Topol",
+    "imports": ["Drama.Actors.Norma Crane"]
+  },
+  {
+    "name": "Drama.Actors.Gene Hackman",
+    "imports": ["Drama.Actors.Fernando Rey"]
+  },
+  {
+    "name": "Drama.Actors.Gene Wilder",
+    "imports": ["Drama.Actors.Jack Albertson"]
+  },
+  {
+    "name": "Drama.Actors.Gene Hackman",
+    "imports": ["Drama.Actors.Ernest Borgnine"]
+  },
+  {
+    "name": "Drama.Actors.Al Pacino",
+    "imports": ["Drama.Actors.John Randolph"]
+  },
+  {
+    "name": "Drama.Actors.Alejandro Jodorowsky",
+    "imports": ["Drama.Actors.Horacio Salinas"]
+  },
+  {
+    "name": "Drama.Actors.David Arkin",
+    "imports": ["Drama.Actors.Barbara Baxley"]
+  },
+  {
+    "name": "Drama.Actors.Diahnne Abbott",
+    "imports": ["Drama.Actors.Frank Adu"]
+  },
+  {
+    "name": "Drama.Actors.Mel Brooks",
+    "imports": ["Drama.Actors.Madeline Kahn"]
+  },
+  {
+    "name": "Drama.Actors.Burt Reynolds",
+    "imports": ["Drama.Actors.Sally Field"]
+  },
+  {
+    "name": "Drama.Actors.Kris Kristofferson",
+    "imports": ["Drama.Actors.Ali MacGraw"]
+  },
+  {
+    "name": "Drama.Actors.Richard Gere",
+    "imports": ["Drama.Actors.Brooke Adams"]
+  },
+  {
+    "name": "Drama.Actors.Donald Sutherland",
+    "imports": ["Drama.Actors.Brooke Adams"]
+  },
+  {
+    "name": "Drama.Actors.Marlon Brando",
+    "imports": ["Drama.Actors.Gene Hackman"]
+  },
+  {
+    "name": "Drama.Actors.Dan Aykroyd",
+    "imports": ["Drama.Actors.Ned Beatty"]
+  },
+  {
+    "name": "Drama.Actors.Maximilian Schell",
+    "imports": ["Drama.Actors.Anthony Perkins"]
+  },
+  {
+    "name": "Drama.Actors.Kelly Reno",
+    "imports": ["Drama.Actors.Mickey Rooney"]
+  },
+  {
+    "name": "Drama.Actors.Gene Wilder",
+    "imports": ["Drama.Actors.Harrison Ford"]
+  },
+  {
+    "name": "Drama.Actors.Ingrid Bergman",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Ava Gardner",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Montgomery Clift",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Richard Burton",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Milton Berle",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Karl Swenson",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Lee Van Cleef",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Akiko Wakabayashi",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Judith O Dea",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Dennis Hopper",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Clint Eastwood",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Norma Crane",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Fernando Rey",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Jack Albertson",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Ernest Borgnine",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.John Randolph",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Horacio Salinas",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Barbara Baxley",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Frank Adu",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Madeline Kahn",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Sally Field",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Ali MacGraw",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Brooke Adams",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Gene Hackman",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Ned Beatty",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Anthony Perkins",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Mickey Rooney",
+    "imports": []
+  },
+  {
+    "name": "Drama.Actors.Harrison Ford",
+    "imports": []
+  }
+]

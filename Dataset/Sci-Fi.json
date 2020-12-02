@@ -1,0 +1,553 @@
+[
+  {
+    "name": "Sci-Fi.Directors.Woody Allen",
+    "imports": [
+      "Sci-Fi.Producers.Jack Rollins & Charles H Joffe Productions",
+      "Sci-Fi.Profit in $.16344729",
+      "Sci-Fi.Actors.Woody Allen",
+      "Sci-Fi.Actors.Diane Keaton"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Directors.James Fargo",
+    "imports": [
+      "Sci-Fi.Producers.Warner Bros",
+      "Sci-Fi.Profit in $.37236000",
+      "Sci-Fi.Actors.Clint Eastwood",
+      "Sci-Fi.Actors.Tyne Daly"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Directors.Peter Weir",
+    "imports": [
+      "Sci-Fi.Producers.R&R Films",
+      "Sci-Fi.Profit in $.3834587",
+      "Sci-Fi.Actors.Mark Lee",
+      "Sci-Fi.Actors.Bill Kerr"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Directors.Walter Hill",
+    "imports": [
+      "Sci-Fi.Producers.Paramount Pictures",
+      "Sci-Fi.Profit in $.66868508",
+      "Sci-Fi.Actors.Nick Nolte",
+      "Sci-Fi.Actors.Eddie Murphy"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Directors.Stewart Raffill",
+    "imports": [
+      "Sci-Fi.Producers.Metro-Goldwyn-Mayer (MGM)",
+      "Sci-Fi.Profit in $.5255801",
+      "Sci-Fi.Actors.Robert Urich",
+      "Sci-Fi.Actors.Mary Crosby"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Directors.John Byrum",
+    "imports": [
+      "Sci-Fi.Producers.Columbia Pictures",
+      "Sci-Fi.Loss in $.6448013",
+      "Sci-Fi.Actors.Bill Murray",
+      "Sci-Fi.Actors.Theresa Russell"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Directors.Howard Zieff",
+    "imports": [
+      "Sci-Fi.Producers.Twentieth Century Fox",
+      "Sci-Fi.Profit in $.7928200",
+      "Sci-Fi.Actors.Dudley Moore",
+      "Sci-Fi.Actors.Nastassja Kinski"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Directors.Stuart Gordon",
+    "imports": [
+      "Sci-Fi.Producers.Empire Pictures",
+      "Sci-Fi.Profit in $.1123414",
+      "Sci-Fi.Actors.Jeffrey Combs",
+      "Sci-Fi.Actors.Bruce Abbott"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Directors.Paul Mazursky",
+    "imports": [
+      "Sci-Fi.Producers.Touchstone Pictures",
+      "Sci-Fi.Profit in $.48134225",
+      "Sci-Fi.Actors.Nick Nolte",
+      "Sci-Fi.Actors.Bette Midler"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Directors.Jim Henson",
+    "imports": [
+      "Sci-Fi.Producers.Henson Associates (HA)",
+      "Sci-Fi.Loss in $.11092380",
+      "Sci-Fi.Actors.David Bowie",
+      "Sci-Fi.Actors.Jennifer Connelly"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Directors.Jonathan Kaplan",
+    "imports": [
+      "Sci-Fi.Producers.Amercent Films",
+      "Sci-Fi.Profit in $.3589395",
+      "Sci-Fi.Actors.Willie",
+      "Sci-Fi.Actors.Okko"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Directors.Phil Joanou",
+    "imports": [
+      "Sci-Fi.Producers.Aaron Spelling Productions",
+      "Sci-Fi.Loss in $.2314138",
+      "Sci-Fi.Actors.Casey Siemaszko",
+      "Sci-Fi.Actors.Annie Ryan"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Directors.Barry Levinson",
+    "imports": [
+      "Sci-Fi.Producers.Bandai Films",
+      "Sci-Fi.Profit in $.14411386",
+      "Sci-Fi.Actors.Richard Dreyfuss",
+      "Sci-Fi.Actors.Danny DeVito"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Directors.James Signorelli",
+    "imports": [
+      "Sci-Fi.Producers.NBC Productions",
+      "Sci-Fi.Loss in $.1903733",
+      "Sci-Fi.Actors.Phil Rubenstein",
+      "Sci-Fi.Actors.Larry Flash Jenkins"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Directors.Roman Polanski",
+    "imports": [
+      "Sci-Fi.Producers.Warner Bros",
+      "Sci-Fi.Loss in $.2362050",
+      "Sci-Fi.Actors.Harrison Ford",
+      "Sci-Fi.Actors.Betty Buckley"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Directors.Jonathan Demme",
+    "imports": [
+      "Sci-Fi.Producers.Orion Pictures",
+      "Sci-Fi.Profit in $.11486757",
+      "Sci-Fi.Actors.Paul Lazar",
+      "Sci-Fi.Actors.Alec Baldwin"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Directors.David Zucker",
+    "imports": [
+      "Sci-Fi.Producers.Paramount Pictures",
+      "Sci-Fi.Profit in $.66756177",
+      "Sci-Fi.Actors.Leslie Nielsen",
+      "Sci-Fi.Actors.Priscilla Presley"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Directors.John Carpenter",
+    "imports": [
+      "Sci-Fi.Producers.Alive Films",
+      "Sci-Fi.Profit in $.9008928",
+      "Sci-Fi.Actors.Roddy Piper",
+      "Sci-Fi.Actors.Keith David"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Directors.Danny DeVito",
+    "imports": [
+      "Sci-Fi.Producers.Twentieth Century Fox",
+      "Sci-Fi.Profit in $.134188546",
+      "Sci-Fi.Actors.Michael Douglas",
+      "Sci-Fi.Actors.Kathleen Turner"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Directors.Clint Eastwood",
+    "imports": [
+      "Sci-Fi.Producers.Warner Bros",
+      "Sci-Fi.Profit in $.11633874",
+      "Sci-Fi.Actors.Clint Eastwood",
+      "Sci-Fi.Actors.Charlie Sheen"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Directors.Garry Marshall",
+    "imports": [
+      "Sci-Fi.Producers.Paramount Pictures",
+      "Sci-Fi.Loss in $.6226465",
+      "Sci-Fi.Actors.Al Pacino",
+      "Sci-Fi.Actors.Michelle Pfeiffer"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Producers.Jack Rollins & Charles H Joffe Productions",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Producers.Warner Bros",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Producers.R&R Films",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Producers.Paramount Pictures",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Producers.Metro-Goldwyn-Mayer (MGM)",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Producers.Columbia Pictures",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Producers.Twentieth Century Fox",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Producers.Empire Pictures",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Producers.Touchstone Pictures",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Producers.Henson Associates (HA)",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Producers.Amercent Films",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Producers.Aaron Spelling Productions",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Producers.Bandai Films",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Producers.NBC Productions",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Producers.Orion Pictures",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Producers.Paramount Pictures",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Producers.Alive Films",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Profit in $.16344729",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Profit in $.37236000",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Profit in $.3834587",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Profit in $.66868508",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Profit in $.5255801",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Loss in $.6448013",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Profit in $.7928200",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Profit in $.1123414",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Profit in $.48134225",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Loss in $.11092380",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Profit in $.3589395",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Loss in $.2314138",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Profit in $.14411386",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Loss in $.1903733",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Loss in $.2362050",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Profit in $.11486757",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Profit in $.66756177",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Profit in $.9008928",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Profit in $.134188546",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Profit in $.11633874",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Loss in $.6226465",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Actors.Woody Allen",
+    "imports": [
+      "Sci-Fi.Actors.Diane Keaton"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Actors.Clint Eastwood",
+    "imports": [
+      "Sci-Fi.Actors.Tyne Daly"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Actors.Mark Lee",
+    "imports": [
+      "Sci-Fi.Actors.Bill Kerr"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Actors.Nick Nolte",
+    "imports": [
+      "Sci-Fi.Actors.Eddie Murphy"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Actors.Robert Urich",
+    "imports": [
+      "Sci-Fi.Actors.Mary Crosby"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Actors.Bill Murray",
+    "imports": [
+      "Sci-Fi.Actors.Theresa Russell"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Actors.Dudley Moore",
+    "imports": [
+      "Sci-Fi.Actors.Nastassja Kinski"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Actors.Jeffrey Combs",
+    "imports": [
+      "Sci-Fi.Actors.Bruce Abbott"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Actors.Nick Nolte",
+    "imports": [
+      "Sci-Fi.Actors.Bette Midler"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Actors.David Bowie",
+    "imports": [
+      "Sci-Fi.Actors.Jennifer Connelly"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Actors.Willie",
+    "imports": [
+      "Sci-Fi.Actors.Okko"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Actors.Casey Siemaszko",
+    "imports": [
+      "Sci-Fi.Actors.Annie Ryan"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Actors.Richard Dreyfuss",
+    "imports": [
+      "Sci-Fi.Actors.Danny DeVito"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Actors.Phil Rubenstein",
+    "imports": [
+      "Sci-Fi.Actors.Larry Flash Jenkins"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Actors.Harrison Ford",
+    "imports": [
+      "Sci-Fi.Actors.Betty Buckley"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Actors.Paul Lazar",
+    "imports": [
+      "Sci-Fi.Actors.Alec Baldwin"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Actors.Leslie Nielsen",
+    "imports": [
+      "Sci-Fi.Actors.Priscilla Presley"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Actors.Roddy Piper",
+    "imports": [
+      "Sci-Fi.Actors.Keith David"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Actors.Michael Douglas",
+    "imports": [
+      "Sci-Fi.Actors.Kathleen Turner"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Actors.Clint Eastwood",
+    "imports": [
+      "Sci-Fi.Actors.Charlie Sheen"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Actors.Al Pacino",
+    "imports": [
+      "Sci-Fi.Actors.Michelle Pfeiffer"
+    ]
+  },
+  {
+    "name": "Sci-Fi.Actors.Diane Keaton",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Actors.Tyne Daly",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Actors.Bill Kerr",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Actors.Eddie Murphy",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Actors.Mary Crosby",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Actors.Theresa Russell",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Actors.Nastassja Kinski",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Actors.Bruce Abbott",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Actors.Bette Midler",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Actors.Jennifer Connelly",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Actors.Okko",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Actors.Annie Ryan",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Actors.Danny DeVito",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Actors.Larry Flash Jenkins",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Actors.Betty Buckley",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Actors.Alec Baldwin",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Actors.Priscilla Presley",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Actors.Keith David",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Actors.Kathleen Turner",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Actors.Charlie Sheen",
+    "imports": []
+  },
+  {
+    "name": "Sci-Fi.Actors.Michelle Pfeiffer",
+    "imports": []
+  }
+]

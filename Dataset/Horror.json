@@ -1,0 +1,756 @@
+[
+  {
+    "name": "Horror.Directors.William Wyler",
+    "imports": [
+      "Horror.Producers.The Samuel Goldwyn Company",
+      "Horror.Profit in $.21556620",
+      "Horror.Actors.Myrna Loy",
+      "Horror.Actors.Fredric March"
+    ]
+  },
+  {
+    "name": "Horror.Directors.Stanley Donen",
+    "imports": ["Horror.Producers.Metro-Goldwyn-Mayer (MGM)", "Horror.Loss in $.676618", "Horror.Actors.Gene Kelly","Horror.Actors.Donald O Connor"]
+  },
+  {
+    "name": "Horror.Directors.Gene Kelly",
+    "imports": ["Horror.Producers.Metro-Goldwyn-Mayer (MGM)", "Horror.Loss in $.676618", "Horror.Actors.Gene Kelly","Horror.Actors.Donald O Connor"]
+  },
+  {
+    "name": "Horror.Directors.Joshua Logan",
+    "imports": [
+      "Horror.Producers.Alan Jay Lerner Productions",
+      "Horror.Loss in $.5500000",
+      "Horror.Actors.Lee Marvin",
+      "Horror.Actors.Clint Eastwood"
+    ]
+  },
+  {
+    "name": "Horror.Directors.Woody Allen",
+    "imports": [
+      "Horror.Producers.Jack Rollins & Charles H Joffe Productions",
+      "Horror.Profit in $.31194067",
+      "Horror.Actors.Woody Allen",
+      "Horror.Actors.Diane Keaton"
+    ]
+  },
+  {
+    "name": "Horror.Directors.Joe Camp",
+    "imports": [
+      "Horror.Producers.Mulberry Square Productions",
+      "Horror.Profit in $.216067",
+      "Horror.Actors.Chevy Chase",
+      "Horror.Actors.Benjean"
+    ]
+  },
+  {
+    "name": "Horror.Directors.Michael Winner",
+    "imports": [
+      "Horror.Producers.American-European Productions",
+      "Horror.Profit in $.14100000",
+      "Horror.Actors.Charles Bronson",
+      "Horror.Actors.Jill Ireland"
+    ]
+  },
+  {
+    "name": "Horror.Directors.John Derek",
+    "imports": [
+      "Horror.Producers.Metro-Goldwyn-Mayer (MGM)",
+      "Horror.Profit in $.30065280",
+      "Horror.Actors.Bo Derek",
+      "Horror.Actors.Richard Harris"
+    ]
+  },
+  {
+    "name": "Horror.Directors.Lewis Teague",
+    "imports": [
+      "Horror.Producers.Sunn Classic Pictures",
+      "Horror.Profit in $.16156152",
+      "Horror.Actors.Dee Wallace",
+      "Horror.Actors.Danny Pintauro"
+    ]
+  },
+  {
+    "name": "Horror.Directors.Stan Lathan",
+    "imports": [
+      "Horror.Producers.Orion Pictures",
+      "Horror.Profit in $.7095791",
+      "Horror.Actors.Rae Dawn Chong",
+      "Horror.Actors.Guy Davis"
+    ]
+  },
+  {
+    "name": "Horror.Directors.Douglas Cheek",
+    "imports": [
+      "Horror.Producers.CHUD Productions",
+      "Horror.Profit in $.3404423",
+      "Horror.Actors.John Heard",
+      "Horror.Actors.Daniel Stern"
+    ]
+  },
+  {
+    "name": "Horror.Directors.Ivan Reitman",
+    "imports": [
+      "Horror.Producers.Columbia Pictures",
+      "Horror.Profit in $.266425473",
+      "Horror.Actors.Bill Murray",
+      "Horror.Actors.Dan Aykroyd"
+    ]
+  },
+  {
+    "name": "Horror.Directors.Hayao Miyazaki",
+    "imports": [
+      "Horror.Producers.Nibariki",
+      "Horror.Profit in $.7734155",
+      "Horror.Actors.Sumi Shimamoto",
+      "Horror.Actors.Mahito Tsujimura"
+    ]
+  },
+  {
+    "name": "Horror.Directors.Rudy De Luca",
+    "imports": [
+      "Horror.Producers.Balcor Film Investors",
+      "Horror.Profit in $.4196872",
+      "Horror.Actors.Jeff Goldblum",
+      "Horror.Actors.Joseph Bologna"
+    ]
+  },
+  {
+    "name": "Horror.Directors.Edward Zwick",
+    "imports": [
+      "Horror.Producers.TriStar Pictures",
+      "Horror.Profit in $.30202310",
+      "Horror.Actors.Rob Lowe",
+      "Horror.Actors.Demi Moore"
+    ]
+  },
+  {
+    "name": "Horror.Directors.Matthew Robbins",
+    "imports": [
+      "Horror.Producers.Universal Pictures",
+      "Horror.Profit in $.40088797",
+      "Horror.Actors.Hume Cronyn",
+      "Horror.Actors.Jessica Tandy"
+    ]
+  },
+  {
+    "name": "Horror.Directors.William Dear",
+    "imports": [
+      "Horror.Producers.Amblin Entertainment",
+      "Horror.Profit in $.39998613",
+      "Horror.Actors.John Lithgow",
+      "Horror.Actors.Melinda Dillon"
+    ]
+  },
+  {
+    "name": "Horror.Directors.Hector Babenco",
+    "imports": [
+      "Horror.Producers.Home Box Office (HBO)",
+      "Horror.Loss in $.19606654",
+      "Horror.Actors.Jack Nicholson",
+      "Horror.Actors.Meryl Streep"
+    ]
+  },
+  {
+    "name": "Horror.Directors.Andrew Davis",
+    "imports": [
+      "Horror.Producers.Warner Bros",
+      "Horror.Profit in $.11369631",
+      "Horror.Actors.Steven Seagal",
+      "Horror.Actors.Pam Grier"
+    ]
+  },
+  {
+    "name": "Horror.Directors.Mike Nichols",
+    "imports": [
+      "Horror.Producers.Rastar Pictures",
+      "Horror.Profit in $.31684798",
+      "Horror.Actors.Matthew Broderick",
+      "Horror.Actors.Christopher Walken"
+    ]
+  },
+  {
+    "name": "Horror.Directors.George Scribner",
+    "imports": [
+      "Horror.Producers.Walt Disney Animation Studios",
+      "Horror.Profit in $.43151346",
+      "Horror.Actors.Joey Lawrence",
+      "Horror.Actors.Billy Joel"
+    ]
+  },
+  {
+    "name": "Horror.Directors.Herbert Ross",
+    "imports": [
+      "Horror.Producers.TriStar Pictures",
+      "Horror.Profit in $.81759512",
+      "Horror.Actors.Sally Field",
+      "Horror.Actors.Dolly Parton"
+    ]
+  },
+  {
+    "name": "Horror.Directors.Andrey Konchalovskiy",
+    "imports": [
+      "Horror.Producers.Warner Bros",
+      "Horror.Profit in $.8408614",
+      "Horror.Actors.Sylvester Stallone",
+      "Horror.Actors.Kurt Russell"
+    ]
+  },
+  {
+    "name": "Horror.Directors.Albert Magnoli",
+    "imports": [
+      "Horror.Producers.Warner Bros",
+      "Horror.Profit in $.8408614",
+      "Horror.Actors.Sylvester Stallone",
+      "Horror.Actors.Kurt Russell"
+    ]
+  },
+  {
+    "name": "Horror.Directors.Whit Stillman",
+    "imports": [
+      "Horror.Producers.Westerly Films",
+      "Horror.Profit in $.2730492",
+      "Horror.Actors.Carolyn Farina",
+      "Horror.Actors.Edward Clements"
+    ]
+  },
+  {
+    "name": "Horror.Directors.Clive Barker",
+    "imports": [
+      "Horror.Producers.Morgan Creek Entertainment",
+      "Horror.Loss in $.2137646",
+      "Horror.Actors.Craig Sheffer",
+      "Horror.Actors.Anne Bobby"
+    ]
+  },
+  {
+    "name": "Horror.Directors.Ron Underwood",
+    "imports": [
+      "Horror.Producers.Castle Rock Entertainment",
+      "Horror.Profit in $.152033791",
+      "Horror.Actors.Billy Crystal",
+      "Horror.Actors.Daniel Stern"
+    ]
+  },
+  {
+    "name": "Horror.Directors.Rachel Talalay",
+    "imports": [
+      "Horror.Producers.New Line Cinema",
+      "Horror.Profit in $.23872033",
+      "Horror.Actors.Robert Englund",
+      "Horror.Actors.Lisa Zane"
+    ]
+  },
+  {
+    "name": "Horror.Directors.Joe Johnston",
+    "imports": [
+      "Horror.Producers.Walt Disney Pictures",
+      "Horror.Profit in $.11704056",
+      "Horror.Actors.Billy Campbell",
+      "Horror.Actors.Jennifer Connelly"
+    ]
+  },
+  {
+    "name": "Horror.Directors.Curtis Hanson",
+    "imports": [
+      "Horror.Producers.Hollywood Pictures",
+      "Horror.Profit in $.76336683",
+      "Horror.Actors.Annabella Sciorra",
+      "Horror.Actors.Rebecca De Mornay"
+    ]
+  },
+  {
+    "name": "Horror.Producers.The Samuel Goldwyn Company",
+    "imports": []
+  },
+  {
+    "name": "Horror.Producers.Alan Jay Lerner Productions",
+    "imports": []
+  },
+  {
+    "name": "Horror.Producers.Jack Rollins & Charles H Joffe Productions",
+    "imports": []
+  },
+  {
+    "name": "Horror.Producers.Mulberry Square Productions",
+    "imports": []
+  },
+  {
+    "name": "Horror.Producers.American-European Productions",
+    "imports": []
+  },
+  {
+    "name": "Horror.Producers.Metro-Goldwyn-Mayer (MGM)",
+    "imports": []
+  },
+  {
+    "name": "Horror.Producers.Sunn Classic Pictures",
+    "imports": []
+  },
+  {
+    "name": "Horror.Producers.Orion Pictures",
+    "imports": []
+  },
+  {
+    "name": "Horror.Producers.CHUD Productions",
+    "imports": []
+  },
+  {
+    "name": "Horror.Producers.Columbia Pictures",
+    "imports": []
+  },
+  {
+    "name": "Horror.Producers.Nibariki",
+    "imports": []
+  },
+  {
+    "name": "Horror.Producers.Balcor Film Investors",
+    "imports": []
+  },
+  {
+    "name": "Horror.Producers.TriStar Pictures",
+    "imports": []
+  },
+  {
+    "name": "Horror.Producers.Universal Pictures",
+    "imports": []
+  },
+  {
+    "name": "Horror.Producers.Amblin Entertainment",
+    "imports": []
+  },
+  {
+    "name": "Horror.Producers.Home Box Office (HBO)",
+    "imports": []
+  },
+  {
+    "name": "Horror.Producers.Warner Bros",
+    "imports": []
+  },
+  {
+    "name": "Horror.Producers.Rastar Pictures",
+    "imports": []
+  },
+  {
+    "name": "Horror.Producers.Walt Disney Animation Studios",
+    "imports": []
+  },
+  {
+    "name": "Horror.Producers.TriStar Pictures",
+    "imports": []
+  },
+  {
+    "name": "Horror.Producers.Westerly Films",
+    "imports": []
+  },
+  {
+    "name": "Horror.Producers.Morgan Creek Entertainment",
+    "imports": []
+  },
+  {
+    "name": "Horror.Producers.Castle Rock Entertainment",
+    "imports": []
+  },
+  {
+    "name": "Horror.Producers.New Line Cinema",
+    "imports": []
+  },
+  {
+    "name": "Horror.Producers.Walt Disney Pictures",
+    "imports": []
+  },
+  {
+    "name": "Horror.Producers.Hollywood Pictures",
+    "imports": []
+  },
+  {
+    "name": "Horror.Profit in $.21556620",
+    "imports": []
+  },
+  {
+    "name": "Horror.Loss in $.676618",
+    "imports": []
+  },
+  {
+    "name": "Horror.Loss in $.5500000",
+    "imports": []
+  },
+  {
+    "name": "Horror.Profit in $.31194067",
+    "imports": []
+  },
+  {
+    "name": "Horror.Profit in $.216067",
+    "imports": []
+  },
+  {
+    "name": "Horror.Profit in $.14100000",
+    "imports": []
+  },
+  {
+    "name": "Horror.Profit in $.30065280",
+    "imports": []
+  },
+  {
+    "name": "Horror.Profit in $.16156152",
+    "imports": []
+  },
+  {
+    "name": "Horror.Profit in $.7095791",
+    "imports": []
+  },
+  {
+    "name": "Horror.Profit in $.3404423",
+    "imports": []
+  },
+  {
+    "name": "Horror.Profit in $.266425473",
+    "imports": []
+  },
+  {
+    "name": "Horror.Profit in $.7734155",
+    "imports": []
+  },
+  {
+    "name": "Horror.Profit in $.4196872",
+    "imports": []
+  },
+  {
+    "name": "Horror.Profit in $.30202310",
+    "imports": []
+  },
+  {
+    "name": "Horror.Profit in $.40088797",
+    "imports": []
+  },
+  {
+    "name": "Horror.Profit in $.39998613",
+    "imports": []
+  },
+  {
+    "name": "Horror.Loss in $.19606654",
+    "imports": []
+  },
+  {
+    "name": "Horror.Profit in $.11369631",
+    "imports": []
+  },
+  {
+    "name": "Horror.Profit in $.31684798",
+    "imports": []
+  },
+  {
+    "name": "Horror.Profit in $.43151346",
+    "imports": []
+  },
+  {
+    "name": "Horror.Profit in $.81759512",
+    "imports": []
+  },
+  {
+    "name": "Horror.Profit in $.8408614",
+    "imports": []
+  },
+  {
+    "name": "Horror.Profit in $.2730492",
+    "imports": []
+  },
+  {
+    "name": "Horror.Loss in $.2137646",
+    "imports": []
+  },
+  {
+    "name": "Horror.Profit in $.152033791",
+    "imports": []
+  },
+  {
+    "name": "Horror.Profit in $.23872033",
+    "imports": []
+  },
+  {
+    "name": "Horror.Profit in $.11704056",
+    "imports": []
+  },
+  {
+    "name": "Horror.Profit in $.76336683",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Myrna Loy",
+    "imports": [
+      "Horror.Actors.Fredric March"
+    ]
+  },
+  {
+    "name": "Horror.Actors.Gene Kelly",
+    "imports": ["Horror.Actors.Donald O Connor"]
+  },
+  {
+    "name": "Horror.Actors.Lee Marvin",
+    "imports": [
+      "Horror.Actors.Clint Eastwood"
+    ]
+  },
+  {
+    "name": "Horror.Actors.Woody Allen",
+    "imports": [
+      "Horror.Actors.Diane Keaton"
+    ]
+  },
+  {
+    "name": "Horror.Actors.Chevy Chase",
+    "imports": [
+      "Horror.Actors.Benjean"
+    ]
+  },
+  {
+    "name": "Horror.Actors.Charles Bronson",
+    "imports": [
+      "Horror.Actors.Jill Ireland"
+    ]
+  },
+  {
+    "name": "Horror.Actors.Bo Derek",
+    "imports": [
+      "Horror.Actors.Richard Harris"
+    ]
+  },
+  {
+    "name": "Horror.Actors.Dee Wallace",
+    "imports": [
+      "Horror.Actors.Danny Pintauro"
+    ]
+  },
+  {
+    "name": "Horror.Actors.Rae Dawn Chong",
+    "imports": [
+      "Horror.Actors.Guy Davis"
+    ]
+  },
+  {
+    "name": "Horror.Actors.John Heard",
+    "imports": [
+      "Horror.Actors.Daniel Stern"
+    ]
+  },
+  {
+    "name": "Horror.Actors.Bill Murray",
+    "imports": [
+      "Horror.Actors.Dan Aykroyd"
+    ]
+  },
+  {
+    "name": "Horror.Actors.Sumi Shimamoto",
+    "imports": [
+      "Horror.Actors.Mahito Tsujimura"
+    ]
+  },
+  {
+    "name": "Horror.Actors.Jeff Goldblum",
+    "imports": [
+      "Horror.Actors.Joseph Bologna"
+    ]
+  },
+  {
+    "name": "Horror.Actors.Rob Lowe",
+    "imports": [
+      "Horror.Actors.Demi Moore"
+    ]
+  },
+  {
+    "name": "Horror.Actors.Hume Cronyn",
+    "imports": [
+      "Horror.Actors.Jessica Tandy"
+    ]
+  },
+  {
+    "name": "Horror.Actors.John Lithgow",
+    "imports": [
+      "Horror.Actors.Melinda Dillon"
+    ]
+  },
+  {
+    "name": "Horror.Actors.Jack Nicholson",
+    "imports": [
+      "Horror.Actors.Meryl Streep"
+    ]
+  },
+  {
+    "name": "Horror.Actors.Steven Seagal",
+    "imports": [
+      "Horror.Actors.Pam Grier"
+    ]
+  },
+  {
+    "name": "Horror.Actors.Matthew Broderick",
+    "imports": [
+      "Horror.Actors.Christopher Walken"
+    ]
+  },
+  {
+    "name": "Horror.Actors.Joey Lawrence",
+    "imports": [
+      "Horror.Actors.Billy Joel"
+    ]
+  },
+  {
+    "name": "Horror.Actors.Sally Field",
+    "imports": [
+      "Horror.Actors.Dolly Parton"
+    ]
+  },
+  {
+    "name": "Horror.Actors.Sylvester Stallone",
+    "imports": [
+      "Horror.Actors.Kurt Russell"
+    ]
+  },
+  {
+    "name": "Horror.Actors.Carolyn Farina",
+    "imports": [
+      "Horror.Actors.Edward Clements"
+    ]
+  },
+  {
+    "name": "Horror.Actors.Craig Sheffer",
+    "imports": [
+      "Horror.Actors.Anne Bobby"
+    ]
+  },
+  {
+    "name": "Horror.Actors.Billy Crystal",
+    "imports": [
+      "Horror.Actors.Daniel Stern"
+    ]
+  },
+  {
+    "name": "Horror.Actors.Robert Englund",
+    "imports": [
+      "Horror.Actors.Lisa Zane"
+    ]
+  },
+  {
+    "name": "Horror.Actors.Billy Campbell",
+    "imports": [
+      "Horror.Actors.Jennifer Connelly"
+    ]
+  },
+  {
+    "name": "Horror.Actors.Annabella Sciorra",
+    "imports": [
+      "Horror.Actors.Rebecca De Mornay"
+    ]
+  },
+  {
+    "name": "Horror.Actors.Fredric March",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Donald O Connor",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Clint Eastwood",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Diane Keaton",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Benjean",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Jill Ireland",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Richard Harris",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Danny Pintauro",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Guy Davis",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Daniel Stern",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Dan Aykroyd",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Mahito Tsujimura",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Joseph Bologna",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Demi Moore",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Jessica Tandy",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Melinda Dillon",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Meryl Streep",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Pam Grier",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Christopher Walken",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Billy Joel",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Dolly Parton",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Kurt Russell",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Edward Clements",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Anne Bobby",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Daniel Stern",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Lisa Zane",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Jennifer Connelly",
+    "imports": []
+  },
+  {
+    "name": "Horror.Actors.Rebecca De Mornay",
+    "imports": []
+  }
+]

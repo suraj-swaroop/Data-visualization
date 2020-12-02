@@ -1,0 +1,865 @@
+[
+  {
+    "name": "Romance.Directors.Frank Capra",
+    "imports": [
+      "Romance.Producers.Columbia Pictures",
+      "Romance.Loss in $.1755262",
+      "Romance.Actors.Jean Arthur",
+      "Romance.Actors.James Stewart"
+    ]
+  },
+  {
+    "name": "Romance.Directors.James Mangold",
+    "imports": [
+      "Romance.Producers.Konrad Pictures",
+      "Romance.Profit in $.28019048",
+      "Romance.Actors.Meg Ryan",
+      "Romance.Actors.Hugh Jackman"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Sam Peckinpah",
+    "imports": [
+      "Romance.Producers.Jerry Bresler Productions",
+      "Romance.Loss in $.3779193",
+      "Romance.Actors.Charlton Heston",
+      "Romance.Actors.Richard Harris"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Mike Nichols",
+    "imports": [
+      "Romance.Producers.Warner Bros",
+      "Romance.Profit in $.20505068",
+      "Romance.Actors.Elizabeth Taylor",
+      "Romance.Actors.Richard Burton"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Stanley Kramer",
+    "imports": [
+      "Romance.Producers.Columbia Pictures",
+      "Romance.Profit in $.52666667",
+      "Romance.Actors.Spencer Tracy",
+      "Romance.Actors.Sidney Poitier"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Arthur Hiller",
+    "imports": [
+      "Romance.Producers.Paramount Pictures",
+      "Romance.Profit in $.104350690",
+      "Romance.Actors.Ali MacGraw",
+      "Romance.Actors.Ryan O Neal"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Guy Hamilton",
+    "imports": [
+      "Romance.Producers.Eon Productions",
+      "Romance.Profit in $.36619547",
+      "Romance.Actors.Sean Connery",
+      "Romance.Actors.Jill St John"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Francis Ford Coppola",
+    "imports": [
+      "Romance.Producers.The Directors Company",
+      "Romance.Profit in $.2832180",
+      "Romance.Actors.Gene Hackman",
+      "Romance.Actors.John Cazale"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Michael Cimino",
+    "imports": [
+      "Romance.Producers.The Malpaso Company",
+      "Romance.Profit in $.19500000",
+      "Romance.Actors.Clint Eastwood",
+      "Romance.Actors.Jeff Bridges"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Mel Brooks",
+    "imports": [
+      "Romance.Producers.Gruskoff/Venture Films",
+      "Romance.Profit in $.83473333",
+      "Romance.Actors.Gene Wilder",
+      "Romance.Actors.Peter Boyle"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Alan J Pakula",
+    "imports": [
+      "Romance.Producers.Wildwood Enterprises",
+      "Romance.Profit in $.62100000",
+      "Romance.Actors.Dustin Hoffman",
+      "Romance.Actors.Robert Redford"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Alan Parker",
+    "imports": [
+      "Romance.Producers.The Rank Organisation",
+      "Romance.Profit in $.2028725",
+      "Romance.Actors.Scott Baio",
+      "Romance.Actors.Florence Garland"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Randal Kleiser",
+    "imports": [
+      "Romance.Producers.Paramount Pictures",
+      "Romance.Profit in $.391217505",
+      "Romance.Actors.John Travolta",
+      "Romance.Actors.Olivia Newton-John"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Stanley Kubrick",
+    "imports": [
+      "Romance.Producers.Warner Bros",
+      "Romance.Profit in $.27520613",
+      "Romance.Actors.Jack Nicholson",
+      "Romance.Actors.Shelley Duvall"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Wolfgang Petersen",
+    "imports": [
+      "Romance.Producers.Bavaria Film",
+      "Romance.Loss in $.7712324",
+      "Romance.Actors.Jürgen Prochnow",
+      "Romance.Actors.Herbert Grönemeyer"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Joe Dante",
+    "imports": [
+      "Romance.Producers.Embassy Pictures",
+      "Romance.Profit in $.16985893",
+      "Romance.Actors.Dee Wallace",
+      "Romance.Actors.Patrick Macnee"
+    ]
+  },
+  {
+    "name": "Romance.Directors.John Huston",
+    "imports": [
+      "Romance.Producers.Columbia Pictures",
+      "Romance.Profit in $.7059003",
+      "Romance.Actors.Albert Finney",
+      "Romance.Actors.Carol Burnett"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Tony Richardson",
+    "imports": [
+      "Romance.Producers.Efer Productions",
+      "Romance.Loss in $.15881317",
+      "Romance.Actors.Jack Nicholson",
+      "Romance.Actors.Harvey Keitel"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Paul Schrader",
+    "imports": [
+      "Romance.Producers.RKO Pictures",
+      "Romance.Loss in $.11000000",
+      "Romance.Actors.Nastassja Kinski",
+      "Romance.Actors.Malcolm McDowell"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Michael Miller",
+    "imports": [
+      "Romance.Producers.Columbia Pictures",
+      "Romance.Profit in $.5990791",
+      "Romance.Actors.Chuck Norris",
+      "Romance.Actors.Ron Silver"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Joe Alves",
+    "imports": [
+      "Romance.Producers.Universal Pictures",
+      "Romance.Profit in $.67487055",
+      "Romance.Actors.Dennis Quaid",
+      "Romance.Actors.Bess Armstrong"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Michael Mann",
+    "imports": [
+      "Romance.Producers.Paramount Pictures",
+      "Romance.Loss in $.6781406",
+      "Romance.Actors.Scott Glenn",
+      "Romance.Actors.Alberta Watson"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Mark L Lester",
+    "imports": [
+      "Romance.Producers.Dino De Laurentiis Company",
+      "Romance.Profit in $.2080167",
+      "Romance.Actors.David Keith",
+      "Romance.Actors.Drew Barrymore"
+    ]
+  },
+  {
+    "name": "Romance.Directors.William Tannen",
+    "imports": [
+      "Romance.Producers.HBO Pictures",
+      "Romance.Loss in $.6145167",
+      "Romance.Actors.Kris Kristofferson",
+      "Romance.Actors.Treat Williams"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Stuart Rosenberg",
+    "imports": [
+      "Romance.Producers.United Artists",
+      "Romance.Loss in $.1163799",
+      "Romance.Actors.Eric Roberts",
+      "Romance.Actors.Mickey Rourke"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Norman Jewison",
+    "imports": [
+      "Romance.Producers.Columbia Pictures",
+      "Romance.Profit in $.15627836",
+      "Romance.Actors.Jane Fonda",
+      "Romance.Actors.Anne Bancroft"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Robert Zemeckis",
+    "imports": [
+      "Romance.Producers.Universal Pictures",
+      "Romance.Profit in $.369774684",
+      "Romance.Actors.Michael J Fox",
+      "Romance.Actors.Christopher Lloyd"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Terry Gilliam",
+    "imports": [
+      "Romance.Producers.Embassy International Pictures",
+      "Romance.Loss in $.5052184",
+      "Romance.Actors.Jonathan Pryce",
+      "Romance.Actors.Robert De Niro"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Joyce Chopra",
+    "imports": [
+      "Romance.Producers.American Playhouse",
+      "Romance.Loss in $.2383215",
+      "Romance.Actors.Treat Williams",
+      "Romance.Actors.Laura Dern"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Barry Levinson",
+    "imports": [
+      "Romance.Producers.Amblin Entertainment",
+      "Romance.Profit in $.1739575",
+      "Romance.Actors.Nicholas Rowe",
+      "Romance.Actors.Alan Cox"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Gary Goddard",
+    "imports": [
+      "Romance.Producers.Golan-Globus Productions",
+      "Romance.Loss in $.4663630",
+      "Romance.Actors.Dolph Lundgren",
+      "Romance.Actors.Frank Langella"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Daniel Petrie",
+    "imports": [
+      "Romance.Producers.Zanuck/Brown Productions",
+      "Romance.Profit in $.7524919",
+      "Romance.Actors.Don Ameche",
+      "Romance.Actors.Wilford Brimley"
+    ]
+  },
+  {
+    "name": "Romance.Directors.Ken Russell",
+    "imports": [
+      "Romance.Producers.White Lair",
+      "Romance.Loss in $.1310685",
+      "Romance.Actors.Amanda Donohoe",
+      "Romance.Actors.Hugh Grant"
+    ]
+  },
+  {
+    "name": "Romance.Producers.Columbia Pictures",
+    "imports": []
+  },
+  {
+    "name": "Romance.Producers.Konrad Pictures",
+    "imports": []
+  },
+  {
+    "name": "Romance.Producers.Jerry Bresler Productions",
+    "imports": []
+  },
+  {
+    "name": "Romance.Producers.Warner Bros",
+    "imports": []
+  },
+  {
+    "name": "Romance.Producers.Columbia Pictures",
+    "imports": []
+  },
+  {
+    "name": "Romance.Producers.Paramount Pictures",
+    "imports": []
+  },
+  {
+    "name": "Romance.Producers.Eon Productions",
+    "imports": []
+  },
+  {
+    "name": "Romance.Producers.The Directors Company",
+    "imports": []
+  },
+  {
+    "name": "Romance.Producers.The Malpaso Company",
+    "imports": []
+  },
+  {
+    "name": "Romance.Producers.Gruskoff/Venture Films",
+    "imports": []
+  },
+  {
+    "name": "Romance.Producers.Wildwood Enterprises",
+    "imports": []
+  },
+  {
+    "name": "Romance.Producers.The Rank Organisation",
+    "imports": []
+  },
+  {
+    "name": "Romance.Producers.Bavaria Film",
+    "imports": []
+  },
+  {
+    "name": "Romance.Producers.Embassy Pictures",
+    "imports": []
+  },
+  {
+    "name": "Romance.Producers.Efer Productions",
+    "imports": []
+  },
+  {
+    "name": "Romance.Producers.RKO Pictures",
+    "imports": []
+  },
+  {
+    "name": "Romance.Producers.Universal Pictures",
+    "imports": []
+  },
+  {
+    "name": "Romance.Producers.Dino De Laurentiis Company",
+    "imports": []
+  },
+  {
+    "name": "Romance.Producers.HBO Pictures",
+    "imports": []
+  },
+  {
+    "name": "Romance.Producers.United Artists",
+    "imports": []
+  },
+  {
+    "name": "Romance.Producers.Embassy International Pictures",
+    "imports": []
+  },
+  {
+    "name": "Romance.Producers.American Playhouse",
+    "imports": []
+  },
+  {
+    "name": "Romance.Producers.Amblin Entertainment",
+    "imports": []
+  },
+  {
+    "name": "Romance.Producers.Golan-Globus Productions",
+    "imports": []
+  },
+  {
+    "name": "Romance.Producers.Zanuck/Brown Productions",
+    "imports": []
+  },
+  {
+    "name": "Romance.Producers.White Lair",
+    "imports": []
+  },
+  {
+    "name": "Romance.Loss in $.1755262",
+    "imports": []
+  },
+  {
+    "name": "Romance.Profit in $.28019048",
+    "imports": []
+  },
+  {
+    "name": "Romance.Loss in $.3779193",
+    "imports": []
+  },
+  {
+    "name": "Romance.Profit in $.20505068",
+    "imports": []
+  },
+  {
+    "name": "Romance.Profit in $.52666667",
+    "imports": []
+  },
+  {
+    "name": "Romance.Profit in $.104350690",
+    "imports": []
+  },
+  {
+    "name": "Romance.Profit in $.36619547",
+    "imports": []
+  },
+  {
+    "name": "Romance.Profit in $.2832180",
+    "imports": []
+  },
+  {
+    "name": "Romance.Profit in $.19500000",
+    "imports": []
+  },
+  {
+    "name": "Romance.Profit in $.83473333",
+    "imports": []
+  },
+  {
+    "name": "Romance.Profit in $.62100000",
+    "imports": []
+  },
+  {
+    "name": "Romance.Profit in $.2028725",
+    "imports": []
+  },
+  {
+    "name": "Romance.Profit in $.391217505",
+    "imports": []
+  },
+  {
+    "name": "Romance.Profit in $.27520613",
+    "imports": []
+  },
+  {
+    "name": "Romance.Loss in $.7712324",
+    "imports": []
+  },
+  {
+    "name": "Romance.Profit in $.16985893",
+    "imports": []
+  },
+  {
+    "name": "Romance.Profit in $.7059003",
+    "imports": []
+  },
+  {
+    "name": "Romance.Loss in $.15881317",
+    "imports": []
+  },
+  {
+    "name": "Romance.Loss in $.11000000",
+    "imports": []
+  },
+  {
+    "name": "Romance.Profit in $.5990791",
+    "imports": []
+  },
+  {
+    "name": "Romance.Profit in $.67487055",
+    "imports": []
+  },
+  {
+    "name": "Romance.Loss in $.6781406",
+    "imports": []
+  },
+  {
+    "name": "Romance.Profit in $.2080167",
+    "imports": []
+  },
+  {
+    "name": "Romance.Loss in $.6145167",
+    "imports": []
+  },
+  {
+    "name": "Romance.Loss in $.1163799",
+    "imports": []
+  },
+  {
+    "name": "Romance.Profit in $.15627836",
+    "imports": []
+  },
+  {
+    "name": "Romance.Profit in $.369774684",
+    "imports": []
+  },
+  {
+    "name": "Romance.Loss in $.5052184",
+    "imports": []
+  },
+  {
+    "name": "Romance.Loss in $.2383215",
+    "imports": []
+  },
+  {
+    "name": "Romance.Profit in $.1739575",
+    "imports": []
+  },
+  {
+    "name": "Romance.Loss in $.4663630",
+    "imports": []
+  },
+  {
+    "name": "Romance.Profit in $.7524919",
+    "imports": []
+  },
+  {
+    "name": "Romance.Loss in $.1310685",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Jean Arthur",
+    "imports": [
+      "Romance.Actors.James Stewart"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Meg Ryan",
+    "imports": [
+      "Romance.Actors.Hugh Jackman"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Charlton Heston",
+    "imports": [
+      "Romance.Actors.Richard Harris"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Elizabeth Taylor",
+    "imports": [
+      "Romance.Actors.Richard Burton"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Spencer Tracy",
+    "imports": [
+      "Romance.Actors.Sidney Poitier"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Ali MacGraw",
+    "imports": [
+      "Romance.Actors.Ryan O Neal"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Sean Connery",
+    "imports": [
+      "Romance.Actors.Jill St John"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Gene Hackman",
+    "imports": [
+      "Romance.Actors.John Cazale"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Clint Eastwood",
+    "imports": [
+      "Romance.Actors.Jeff Bridges"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Gene Wilder",
+    "imports": [
+      "Romance.Actors.Peter Boyle"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Dustin Hoffman",
+    "imports": [
+      "Romance.Actors.Robert Redford"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Scott Baio",
+    "imports": [
+      "Romance.Actors.Florence Garland"
+    ]
+  },
+  {
+    "name": "Romance.Actors.John Travolta",
+    "imports": [
+      "Romance.Actors.Olivia Newton-John"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Jack Nicholson",
+    "imports": [
+      "Romance.Actors.Shelley Duvall"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Jürgen Prochnow",
+    "imports": [
+      "Romance.Actors.Herbert Grönemeyer"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Dee Wallace",
+    "imports": [
+      "Romance.Actors.Patrick Macnee"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Albert Finney",
+    "imports": [
+      "Romance.Actors.Carol Burnett"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Jack Nicholson",
+    "imports": [
+      "Romance.Actors.Harvey Keitel"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Nastassja Kinski",
+    "imports": [
+      "Romance.Actors.Malcolm McDowell"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Chuck Norris",
+    "imports": [
+      "Romance.Actors.Ron Silver"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Dennis Quaid",
+    "imports": [
+      "Romance.Actors.Bess Armstrong"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Scott Glenn",
+    "imports": [
+      "Romance.Actors.Alberta Watson"
+    ]
+  },
+  {
+    "name": "Romance.Actors.David Keith",
+    "imports": [
+      "Romance.Actors.Drew Barrymore"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Kris Kristofferson",
+    "imports": [
+      "Romance.Actors.Treat Williams"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Eric Roberts",
+    "imports": [
+      "Romance.Actors.Mickey Rourke"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Jane Fonda",
+    "imports": [
+      "Romance.Actors.Anne Bancroft"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Michael J Fox",
+    "imports": [
+      "Romance.Actors.Christopher Lloyd"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Jonathan Pryce",
+    "imports": [
+      "Romance.Actors.Robert De Niro"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Treat Williams",
+    "imports": [
+      "Romance.Actors.Laura Dern"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Nicholas Rowe",
+    "imports": [
+      "Romance.Actors.Alan Cox"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Dolph Lundgren",
+    "imports": [
+      "Romance.Actors.Frank Langella"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Don Ameche",
+    "imports": [
+      "Romance.Actors.Wilford Brimley"
+    ]
+  },
+  {
+    "name": "Romance.Actors.Amanda Donohoe",
+    "imports": [
+      "Romance.Actors.Hugh Grant"
+    ]
+  },
+  {
+    "name": "Romance.Actors.James Stewart",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Hugh Jackman",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Richard Harris",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Richard Burton",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Sidney Poitier",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Ryan O Neal",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Jill St John",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.John Cazale",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Jeff Bridges",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Peter Boyle",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Robert Redford",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Florence Garland",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Olivia Newton-John",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Shelley Duvall",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Herbert Grönemeyer",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Patrick Macnee",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Carol Burnett",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Harvey Keitel",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Malcolm McDowell",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Ron Silver",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Bess Armstrong",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Alberta Watson",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Drew Barrymore",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Treat Williams",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Mickey Rourke",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Anne Bancroft",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Christopher Lloyd",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Robert De Niro",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Laura Dern",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Alan Cox",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Frank Langella",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Wilford Brimley",
+    "imports": []
+  },
+  {
+    "name": "Romance.Actors.Hugh Grant",
+    "imports": []
+  }
+]

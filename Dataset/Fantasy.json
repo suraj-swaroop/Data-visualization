@@ -1,0 +1,574 @@
+[
+  {
+    "name": "Fantasy.Directors.Victor Fleming",
+    "imports": [
+      "Fantasy.Producers.Metro-Goldwyn-Mayer (MGM)",
+      "Fantasy.Profit in $.23365032",
+      "Fantasy.Actors.Judy Garland",
+      "Fantasy.Actors.Frank Morgan"
+    ]
+  },
+  {
+    "name": "Fantasy.Directors.George Cukor",
+    "imports": [
+      "Fantasy.Producers.Metro-Goldwyn-Mayer (MGM)",
+      "Fantasy.Profit in $.23365032",
+      "Fantasy.Actors.Judy Garland",
+      "Fantasy.Actors.Frank Morgan"
+    ]
+  },
+  {
+    "name": "Fantasy.Directors.George Lucas",
+    "imports": [
+      "Fantasy.Producers.Universal Pictures",
+      "Fantasy.Profit in $.114223000",
+      "Fantasy.Actors.Richard Dreyfuss",
+      "Fantasy.Actors.Ron Howard"
+    ]
+  },
+  {
+    "name": "Fantasy.Directors.Bernardo Bertolucci",
+    "imports": [
+      "Fantasy.Producers.Les Productions Artistes Associés",
+      "Fantasy.Profit in $.34929290",
+      "Fantasy.Actors.Marlon Brando",
+      "Fantasy.Actors.Maria Schneider"
+    ]
+  },
+  {
+    "name": "Fantasy.Directors.Sydney Pollack",
+    "imports": [
+      "Fantasy.Producers.Wildwood Enterprises",
+      "Fantasy.Profit in $.7476252",
+      "Fantasy.Actors.Robert Redford",
+      "Fantasy.Actors.Faye Dunaway"
+    ]
+  },
+  {
+    "name": "Fantasy.Directors.John Schlesinger",
+    "imports": [
+      "Fantasy.Producers.Robert Evans Company",
+      "Fantasy.Profit in $.15209020",
+      "Fantasy.Actors.Dustin Hoffman",
+      "Fantasy.Actors.Laurence Olivier"
+    ]
+  },
+  {
+    "name": "Fantasy.Directors.Fred Zinnemann",
+    "imports": [
+      "Fantasy.Producers.Twentieth Century Fox",
+      "Fantasy.Profit in $.12874400",
+      "Fantasy.Actors.Jane Fonda",
+      "Fantasy.Actors.Vanessa Redgrave"
+    ]
+  },
+  {
+    "name": "Fantasy.Directors.Peter Yates",
+    "imports": [
+      "Fantasy.Producers.Twentieth Century Fox",
+      "Fantasy.Profit in $.14124918",
+      "Fantasy.Actors.Dennis Christopher",
+      "Fantasy.Actors.Dennis Quaid"
+    ]
+  },
+  {
+    "name": "Fantasy.Directors.Howard Zieff",
+    "imports": [
+      "Fantasy.Producers.Warner Bros",
+      "Fantasy.Profit in $.59847348",
+      "Fantasy.Actors.Goldie Hawn",
+      "Fantasy.Actors.Eileen Brennan"
+    ]
+  },
+  {
+    "name": "Fantasy.Directors.George Miller",
+    "imports": [
+      "Fantasy.Producers.Kennedy Miller Productions",
+      "Fantasy.Profit in $.20667907",
+      "Fantasy.Actors.Mel Gibson",
+      "Fantasy.Actors.Bruce Spence"
+    ]
+  },
+  {
+    "name": "Fantasy.Directors.Tommy Lee Wallace",
+    "imports": [
+      "Fantasy.Producers.Dino De Laurentiis Company",
+      "Fantasy.Profit in $.11900000",
+      "Fantasy.Actors.Tom Atkins",
+      "Fantasy.Actors.Stacey Nelkin"
+    ]
+  },
+  {
+    "name": "Fantasy.Directors.Roland Joffé",
+    "imports": [
+      "Fantasy.Producers.Goldcrest Films International",
+      "Fantasy.Profit in $.20300291",
+      "Fantasy.Actors.Sam Waterston",
+      "Fantasy.Actors.Haing S Ngor"
+    ]
+  },
+  {
+    "name": "Fantasy.Directors.James Cameron",
+    "imports": [
+      "Fantasy.Producers.Cinema 84",
+      "Fantasy.Profit in $.72280331",
+      "Fantasy.Actors.Arnold Schwarzenegger",
+      "Fantasy.Actors.Michael Biehn"
+    ]
+  },
+  {
+    "name": "Fantasy.Directors.George P Cosmatos",
+    "imports": [
+      "Fantasy.Producers.Estudios Churubusco Azteca SA",
+      "Fantasy.Profit in $.256400432",
+      "Fantasy.Actors.Sylvester Stallone",
+      "Fantasy.Actors.Richard Crenna"
+    ]
+  },
+  {
+    "name": "Fantasy.Directors.John Glen",
+    "imports": [
+      "Fantasy.Producers.Eon Productions",
+      "Fantasy.Profit in $.20327960",
+      "Fantasy.Actors.Roger Moore",
+      "Fantasy.Actors.Christopher Walken"
+    ]
+  },
+  {
+    "name": "Fantasy.Directors.Roman Polanski",
+    "imports": [
+      "Fantasy.Producers.Carthago Films Sarl",
+      "Fantasy.Loss in $.38358175",
+      "Fantasy.Actors.Walter Matthau",
+      "Fantasy.Actors.Cris Campion"
+    ]
+  },
+  {
+    "name": "Fantasy.Directors.Jim Goddard",
+    "imports": [
+      "Fantasy.Producers.HandMade Films",
+      "Fantasy.Loss in $.14684317",
+      "Fantasy.Actors.Sean Penn",
+      "Fantasy.Actors.Madonna"
+    ]
+  },
+  {
+    "name": "Fantasy.Directors.John McTiernan",
+    "imports": [
+      "Fantasy.Producers.Twentieth Century Fox",
+      "Fantasy.Profit in $.83399956",
+      "Fantasy.Actors.Arnold Schwarzenegger",
+      "Fantasy.Actors.Carl Weathers"
+    ]
+  },
+  {
+    "name": "Fantasy.Directors.William Shatner",
+    "imports": [
+      "Fantasy.Producers.Paramount Pictures",
+      "Fantasy.Profit in $.24410049",
+      "Fantasy.Actors.William Shatner",
+      "Fantasy.Actors.Leonard Nimoy"
+    ]
+  },
+  {
+    "name": "Fantasy.Directors.Jay Levey",
+    "imports": [
+      "Fantasy.Producers.Cinecorp SAC",
+      "Fantasy.Profit in $.1157157",
+      "Fantasy.Actors.Weird Al Yankovic",
+      "Fantasy.Actors.Victoria Jackson"
+    ]
+  },
+  {
+    "name": "Fantasy.Directors.Paul Verhoeven",
+    "imports": [
+      "Fantasy.Producers.Carolco Pictures",
+      "Fantasy.Profit in $.196317921",
+      "Fantasy.Actors.Arnold Schwarzenegger",
+      "Fantasy.Actors.Rachel Ticotin"
+    ]
+  },
+  {
+    "name": "Fantasy.Directors.Kathryn Bigelow",
+    "imports": [
+      "Fantasy.Producers.Largo Entertainment",
+      "Fantasy.Profit in $.59531958",
+      "Fantasy.Actors.Patrick Swayze",
+      "Fantasy.Actors.Keanu Reeves"
+    ]
+  },
+  {
+    "name": "Fantasy.Producers.Metro-Goldwyn-Mayer (MGM)",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Producers.Universal Pictures",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Producers.Les Productions Artistes Associés",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Producers.Wildwood Enterprises",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Producers.Robert Evans Company",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Producers.Twentieth Century Fox",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Producers.Warner Bros",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Producers.Kennedy Miller Productions",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Producers.Dino De Laurentiis Company",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Producers.Goldcrest Films International",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Producers.Cinema 84",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Producers.Estudios Churubusco Azteca SA",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Producers.Eon Productions",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Producers.Carthago Films Sarl",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Producers.HandMade Films",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Producers.Paramount Pictures",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Producers.Cinecorp SAC",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Producers.Carolco Pictures",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Producers.Largo Entertainment",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Profit in $.23365032",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Profit in $.114223000",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Profit in $.34929290",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Profit in $.7476252",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Profit in $.15209020",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Profit in $.12874400",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Profit in $.14124918",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Profit in $.59847348",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Profit in $.20667907",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Profit in $.11900000",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Profit in $.20300291",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Profit in $.72280331",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Profit in $.256400432",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Profit in $.20327960",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Loss in $.38358175",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Loss in $.14684317",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Profit in $.83399956",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Profit in $.24410049",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Profit in $.1157157",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Profit in $.196317921",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Profit in $.59531958",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Actors.Judy Garland",
+    "imports": [
+      "Fantasy.Actors.Frank Morgan"
+    ]
+  },
+  {
+    "name": "Fantasy.Actors.Richard Dreyfuss",
+    "imports": [
+      "Fantasy.Actors.Ron Howard"
+    ]
+  },
+  {
+    "name": "Fantasy.Actors.Marlon Brando",
+    "imports": [
+      "Fantasy.Actors.Maria Schneider"
+    ]
+  },
+  {
+    "name": "Fantasy.Actors.Robert Redford",
+    "imports": [
+      "Fantasy.Actors.Faye Dunaway"
+    ]
+  },
+  {
+    "name": "Fantasy.Actors.Dustin Hoffman",
+    "imports": [
+      "Fantasy.Actors.Laurence Olivier"
+    ]
+  },
+  {
+    "name": "Fantasy.Actors.Jane Fonda",
+    "imports": [
+      "Fantasy.Actors.Vanessa Redgrave"
+    ]
+  },
+  {
+    "name": "Fantasy.Actors.Dennis Christopher",
+    "imports": [
+      "Fantasy.Actors.Dennis Quaid"
+    ]
+  },
+  {
+    "name": "Fantasy.Actors.Goldie Hawn",
+    "imports": [
+      "Fantasy.Actors.Eileen Brennan"
+    ]
+  },
+  {
+    "name": "Fantasy.Actors.Mel Gibson",
+    "imports": [
+      "Fantasy.Actors.Bruce Spence"
+    ]
+  },
+  {
+    "name": "Fantasy.Actors.Tom Atkins",
+    "imports": [
+      "Fantasy.Actors.Stacey Nelkin"
+    ]
+  },
+  {
+    "name": "Fantasy.Actors.Sam Waterston",
+    "imports": [
+      "Fantasy.Actors.Haing S Ngor"
+    ]
+  },
+  {
+    "name": "Fantasy.Actors.Arnold Schwarzenegger",
+    "imports": [
+      "Fantasy.Actors.Michael Biehn"
+    ]
+  },
+  {
+    "name": "Fantasy.Actors.Sylvester Stallone",
+    "imports": [
+      "Fantasy.Actors.Richard Crenna"
+    ]
+  },
+  {
+    "name": "Fantasy.Actors.Roger Moore",
+    "imports": [
+      "Fantasy.Actors.Christopher Walken"
+    ]
+  },
+  {
+    "name": "Fantasy.Actors.Walter Matthau",
+    "imports": [
+      "Fantasy.Actors.Cris Campion"
+    ]
+  },
+  {
+    "name": "Fantasy.Actors.Sean Penn",
+    "imports": [
+      "Fantasy.Actors.Madonna"
+    ]
+  },
+  {
+    "name": "Fantasy.Actors.Arnold Schwarzenegger",
+    "imports": [
+      "Fantasy.Actors.Carl Weathers"
+    ]
+  },
+  {
+    "name": "Fantasy.Actors.William Shatner",
+    "imports": [
+      "Fantasy.Actors.Leonard Nimoy"
+    ]
+  },
+  {
+    "name": "Fantasy.Actors.Weird Al Yankovic",
+    "imports": [
+      "Fantasy.Actors.Victoria Jackson"
+    ]
+  },
+  {
+    "name": "Fantasy.Actors.Arnold Schwarzenegger",
+    "imports": [
+      "Fantasy.Actors.Rachel Ticotin"
+    ]
+  },
+  {
+    "name": "Fantasy.Actors.Patrick Swayze",
+    "imports": [
+      "Fantasy.Actors.Keanu Reeves"
+    ]
+  },
+  {
+    "name": "Fantasy.Actors.Frank Morgan",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Actors.Frank Morgan",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Actors.Ron Howard",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Actors.Maria Schneider",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Actors.Faye Dunaway",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Actors.Laurence Olivier",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Actors.Vanessa Redgrave",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Actors.Dennis Quaid",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Actors.Eileen Brennan",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Actors.Bruce Spence",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Actors.Stacey Nelkin",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Actors.Haing S Ngor",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Actors.Michael Biehn",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Actors.Richard Crenna",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Actors.Christopher Walken",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Actors.Cris Campion",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Actors.Madonna",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Actors.Carl Weathers",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Actors.Leonard Nimoy",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Actors.Victoria Jackson",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Actors.Rachel Ticotin",
+    "imports": []
+  },
+  {
+    "name": "Fantasy.Actors.Keanu Reeves",
+    "imports": []
+  }
+]

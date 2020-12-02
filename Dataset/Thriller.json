@@ -1,0 +1,851 @@
+[
+  {
+    "name": "Thriller.Directors.James Algar",
+    "imports": [
+      "Thriller.Producers.Walt Disney Productions",
+      "Thriller.Profit in $.74131401",
+      "Thriller.Actors.Deems Taylor",
+      "Thriller.Actors.Leopold Stokowski"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Samuel Armstrong",
+    "imports": [
+      "Thriller.Producers.Walt Disney Productions",
+      "Thriller.Profit in $.74131401",
+      "Thriller.Actors.Deems Taylor",
+      "Thriller.Actors.Leopold Stokowski"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Edward Dmytryk",
+    "imports": [
+      "Thriller.Producers.Columbia Pictures",
+      "Thriller.Profit in $.19750000",
+      "Thriller.Actors.Humphrey Bogart",
+      "Thriller.Actors.José Ferrer"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Robert Altman",
+    "imports": [
+      "Thriller.Producers.Aspen Productions (I)",
+      "Thriller.Profit in $.78100000",
+      "Thriller.Actors.Donald Sutherland",
+      "Thriller.Actors.Elliott Gould"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Ted Kotcheff",
+    "imports": [
+      "Thriller.Producers.NLT Productions",
+      "Thriller.Loss in $.365836",
+      "Thriller.Actors.Donald Pleasence",
+      "Thriller.Actors.Gary Bond"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Mark Robson",
+    "imports": [
+      "Thriller.Producers.Universal Pictures",
+      "Thriller.Profit in $.72666653",
+      "Thriller.Actors.Charlton Heston",
+      "Thriller.Actors.Ava Gardner"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.John Guillermin",
+    "imports": [
+      "Thriller.Producers.Twentieth Century Fox",
+      "Thriller.Profit in $.102000000",
+      "Thriller.Actors.Steve McQueen",
+      "Thriller.Actors.Paul Newman"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Burt Reynolds",
+    "imports": [
+      "Thriller.Producers.Gordon-Reynolds Productions",
+      "Thriller.Profit in $.41917151",
+      "Thriller.Actors.Burt Reynolds",
+      "Thriller.Actors.Dom DeLuise"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Lou Adler",
+    "imports": [
+      "Thriller.Producers.Paramount Pictures",
+      "Thriller.Profit in $.42364244",
+      "Thriller.Actors.Cheech Marin",
+      "Thriller.Actors.Tommy Chong"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Tommy Chong",
+    "imports": [
+      "Thriller.Producers.Paramount Pictures",
+      "Thriller.Profit in $.42364244",
+      "Thriller.Actors.Cheech Marin",
+      "Thriller.Actors.Tommy Chong"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Milos Forman",
+    "imports": [
+      "Thriller.Producers.CIP Filmproduktion GmbH",
+      "Thriller.Profit in $.4313606",
+      "Thriller.Actors.John Savage",
+      "Thriller.Actors.Treat Williams"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Jules Bass",
+    "imports": [
+      "Thriller.Producers.Rankin/Bass Productions",
+      "Thriller.Profit in $.2955330",
+      "Thriller.Actors.Alan Arkin",
+      "Thriller.Actors.Jeff Bridges"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Arthur Rankin Jr",
+    "imports": [
+      "Thriller.Producers.Rankin/Bass Productions",
+      "Thriller.Profit in $.2955330",
+      "Thriller.Actors.Alan Arkin",
+      "Thriller.Actors.Jeff Bridges"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Douglas Trumbull",
+    "imports": [
+      "Thriller.Producers.JF Productions",
+      "Thriller.Loss in $.4780540",
+      "Thriller.Actors.Christopher Walken",
+      "Thriller.Actors.Natalie Wood"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Bob Clark",
+    "imports": [
+      "Thriller.Producers.Astral Bellevue Pathé",
+      "Thriller.Profit in $.27259266",
+      "Thriller.Actors.Dan Monahan",
+      "Thriller.Actors.Wyatt Knight"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Rafal Zielinski",
+    "imports": [
+      "Thriller.Producers.Canadian Film Development Corporation (CFDC)",
+      "Thriller.Profit in $.1282215",
+      "Thriller.Actors.Peter Keleghan",
+      "Thriller.Actors.Kent Deuters"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.James L Brooks",
+    "imports": [
+      "Thriller.Producers.Paramount Pictures",
+      "Thriller.Profit in $.100423489",
+      "Thriller.Actors.Shirley MacLaine",
+      "Thriller.Actors.Debra Winger"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Hugh Hudson",
+    "imports": [
+      "Thriller.Producers.Warner Bros",
+      "Thriller.Profit in $.15858563",
+      "Thriller.Actors.Ralph Richardson",
+      "Thriller.Actors.Ian Holm"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Jim Jarmusch",
+    "imports": [
+      "Thriller.Producers.Cinesthesia Productions",
+      "Thriller.Profit in $.2346000",
+      "Thriller.Actors.John Lurie",
+      "Thriller.Actors.Eszter Balint"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Richard Attenborough",
+    "imports": [
+      "Thriller.Producers.Embassy Pictures",
+      "Thriller.Loss in $.12797101",
+      "Thriller.Actors.Michael Blevins",
+      "Thriller.Actors.Yamil Borges"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Joseph Zito",
+    "imports": [
+      "Thriller.Producers.Cannon Films",
+      "Thriller.Profit in $.7536256",
+      "Thriller.Actors.Chuck Norris",
+      "Thriller.Actors.Richard Lynch"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Ivan Reitman",
+    "imports": [
+      "Thriller.Producers.Universal Pictures",
+      "Thriller.Profit in $.53151591",
+      "Thriller.Actors.Robert Redford",
+      "Thriller.Actors.Debra Winger"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Stephen Frears",
+    "imports": [
+      "Thriller.Producers.Working Title Films",
+      "Thriller.Profit in $.1593545",
+      "Thriller.Actors.Daniel Day-Lewis",
+      "Thriller.Actors.Richard Graham"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Tobe Hooper",
+    "imports": [
+      "Thriller.Producers.Cannon Films",
+      "Thriller.Profit in $.3325872",
+      "Thriller.Actors.Dennis Hopper",
+      "Thriller.Actors.Caroline Williams"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.John Cornell",
+    "imports": [
+      "Thriller.Producers.Paramount Pictures",
+      "Thriller.Profit in $.225606210",
+      "Thriller.Actors.Paul Hogan",
+      "Thriller.Actors.Linda Kozlowski"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Craig R Baxley",
+    "imports": [
+      "Thriller.Producers.Lorimar Film Entertainment",
+      "Thriller.Profit in $.13256975",
+      "Thriller.Actors.Carl Weathers",
+      "Thriller.Actors.Craig T Nelson"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.John McTiernan",
+    "imports": [
+      "Thriller.Producers.Twentieth Century Fox",
+      "Thriller.Profit in $.113482154",
+      "Thriller.Actors.Bruce Willis",
+      "Thriller.Actors.Bonnie Bedelia"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Luc Besson",
+    "imports": [
+      "Thriller.Producers.Gaumont",
+      "Thriller.Loss in $.10424756",
+      "Thriller.Actors.Rosanna Arquette",
+      "Thriller.Actors.Jean-Marc Barr"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Tony Randel",
+    "imports": [
+      "Thriller.Producers.Film Futures",
+      "Thriller.Profit in $.9090735",
+      "Thriller.Actors.Clare Higgins",
+      "Thriller.Actors.Ashley Laurence"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Peter MacDonald",
+    "imports": [
+      "Thriller.Producers.Carolco Pictures",
+      "Thriller.Profit in $.126015611",
+      "Thriller.Actors.Sylvester Stallone",
+      "Thriller.Actors.Richard Crenna"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.James Cameron",
+    "imports": [
+      "Thriller.Producers.Twentieth Century Fox",
+      "Thriller.Profit in $.20000098",
+      "Thriller.Actors.Ed Harris",
+      "Thriller.Actors.Mary Elizabeth Mastrantonio"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Steven Spielberg",
+    "imports": [
+      "Thriller.Producers.Paramount Pictures",
+      "Thriller.Profit in $.426310887",
+      "Thriller.Actors.Harrison Ford",
+      "Thriller.Actors.Sean Connery"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Thomas J Wright",
+    "imports": [
+      "Thriller.Producers.New Line Cinema",
+      "Thriller.Profit in $.8093651",
+      "Thriller.Actors.Hulk Hogan",
+      "Thriller.Actors.Joan Severance"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Renny Harlin",
+    "imports": [
+      "Thriller.Producers.Twentieth Century Fox",
+      "Thriller.Profit in $.170247433",
+      "Thriller.Actors.Bruce Willis",
+      "Thriller.Actors.Bonnie Bedelia"
+    ]
+  },
+  {
+    "name": "Thriller.Directors.Francis Ford Coppola",
+    "imports": [
+      "Thriller.Producers.Paramount Pictures",
+      "Thriller.Profit in $.82766062",
+      "Thriller.Actors.Al Pacino",
+      "Thriller.Actors.Diane Keaton"
+    ]
+  },
+  {
+    "name": "Thriller.Producers.Walt Disney Productions",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Producers.Carolco Pictures",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Producers.Columbia Pictures",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Producers.Aspen Productions (I)",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Producers.NLT Productions",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Producers.Gordon-Reynolds Productions",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Producers.CIP Filmproduktion GmbH",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Producers.Rankin/Bass Productions",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Producers.JF Productions",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Producers.Astral Bellevue Pathé",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Producers.Canadian Film Development Corporation (CFDC)",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Producers.Paramount Pictures",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Producers.Warner Bros",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Producers.Cinesthesia Productions",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Producers.Embassy Pictures",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Producers.Cannon Films",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Producers.Universal Pictures",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Producers.Working Title Films",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Producers.Paramount Pictures",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Producers.Lorimar Film Entertainment",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Producers.Twentieth Century Fox",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Producers.Gaumont",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Producers.Film Futures",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Producers.New Line Cinema",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.74131401",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.19750000",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.78100000",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Loss in $.365836",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.72666653",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.102000000",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.41917151",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.42364244",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.4313606",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.2955330",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Loss in $.4780540",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.27259266",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.1282215",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.100423489",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.15858563",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.2346000",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Loss in $.12797101",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.7536256",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.53151591",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.1593545",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.3325872",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.225606210",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.13256975",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.113482154",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Loss in $.10424756",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.9090735",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.126015611",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.20000098",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.426310887",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.8093651",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.170247433",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Profit in $.82766062",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Deems Taylor",
+    "imports": [
+      "Thriller.Actors.Leopold Stokowski"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Humphrey Bogart",
+    "imports": [
+      "Thriller.Actors.José Ferrer"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Donald Sutherland",
+    "imports": [
+      "Thriller.Actors.Elliott Gould"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Donald Pleasence",
+    "imports": [
+      "Thriller.Actors.Gary Bond"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Charlton Heston",
+    "imports": [
+      "Thriller.Actors.Ava Gardner"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Steve McQueen",
+    "imports": [
+      "Thriller.Actors.Paul Newman"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Burt Reynolds",
+    "imports": [
+      "Thriller.Actors.Dom DeLuise"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Cheech Marin",
+    "imports": [
+      "Thriller.Actors.Tommy Chong"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.John Savage",
+    "imports": [
+      "Thriller.Actors.Treat Williams"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Alan Arkin",
+    "imports": [
+      "Thriller.Actors.Jeff Bridges"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Christopher Walken",
+    "imports": [
+      "Thriller.Actors.Natalie Wood"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Dan Monahan",
+    "imports": [
+      "Thriller.Actors.Wyatt Knight"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Peter Keleghan",
+    "imports": [
+      "Thriller.Actors.Kent Deuters"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Shirley MacLaine",
+    "imports": [
+      "Thriller.Actors.Debra Winger"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Ralph Richardson",
+    "imports": [
+      "Thriller.Actors.Ian Holm"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.John Lurie",
+    "imports": [
+      "Thriller.Actors.Eszter Balint"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Michael Blevins",
+    "imports": [
+      "Thriller.Actors.Yamil Borges"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Chuck Norris",
+    "imports": [
+      "Thriller.Actors.Richard Lynch"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Robert Redford",
+    "imports": [
+      "Thriller.Actors.Debra Winger"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Daniel Day-Lewis",
+    "imports": [
+      "Thriller.Actors.Richard Graham"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Dennis Hopper",
+    "imports": [
+      "Thriller.Actors.Caroline Williams"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Paul Hogan",
+    "imports": [
+      "Thriller.Actors.Linda Kozlowski"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Carl Weathers",
+    "imports": [
+      "Thriller.Actors.Craig T Nelson"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Bruce Willis",
+    "imports": [
+      "Thriller.Actors.Bonnie Bedelia"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Rosanna Arquette",
+    "imports": [
+      "Thriller.Actors.Jean-Marc Barr"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Clare Higgins",
+    "imports": [
+      "Thriller.Actors.Ashley Laurence"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Sylvester Stallone",
+    "imports": [
+      "Thriller.Actors.Richard Crenna"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Ed Harris",
+    "imports": [
+      "Thriller.Actors.Mary Elizabeth Mastrantonio"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Harrison Ford",
+    "imports": [
+      "Thriller.Actors.Sean Connery"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Hulk Hogan",
+    "imports": [
+      "Thriller.Actors.Joan Severance"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Al Pacino",
+    "imports": [
+      "Thriller.Actors.Diane Keaton"
+    ]
+  },
+  {
+    "name": "Thriller.Actors.Leopold Stokowski",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.José Ferrer",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Elliott Gould",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Gary Bond",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Ava Gardner",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Paul Newman",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Dom DeLuise",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Tommy Chong",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Treat Williams",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Jeff Bridges",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Natalie Wood",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Wyatt Knight",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Kent Deuters",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Debra Winger",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Ian Holm",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Eszter Balint",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Yamil Borges",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Richard Lynch",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Debra Winger",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Richard Graham",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Caroline Williams",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Linda Kozlowski",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Craig T Nelson",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Bonnie Bedelia",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Jean-Marc Barr",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Ashley Laurence",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Richard Crenna",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Mary Elizabeth Mastrantonio",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Sean Connery",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Joan Severance",
+    "imports": []
+  },
+  {
+    "name": "Thriller.Actors.Diane Keaton",
+    "imports": []
+  }
+]

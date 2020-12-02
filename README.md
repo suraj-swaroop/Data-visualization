@@ -15,6 +15,8 @@ This is the main file that contains the html and javascript code for the project
   accept the risk and continue,
   privacy.file_unique_origin should be set to false)
   Once this is done reopen the file in your web browser
+  
+  P.s - The reason for this is that when we run this locally the web browser does not detect the input file coming from different origin and this causes CORS issue. If you run it on a server in the local machine it should not cause an issue.
 
 ## Dataset:
   This is the folder that contains all the datsets that is used for the visualization

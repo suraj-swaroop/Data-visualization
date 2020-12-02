@@ -1,0 +1,770 @@
+[
+  {
+    "name": "Comedy.Directors.Charles Chaplin",
+    "imports": [
+      "Comedy.Producers.Charles Chaplin Productions",
+      "Comedy.Loss in $.1453992",
+      "Comedy.Actors.Virginia Cherrill",
+      "Comedy.Actors.Florence Lee"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.John Huston",
+    "imports": [
+      "Comedy.Producers.Warner Bros",
+      "Comedy.Loss in $.2784705",
+      "Comedy.Actors.Humphrey Bogart",
+      "Comedy.Actors.Walter Huston"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Vincente Minnelli",
+    "imports": [
+      "Comedy.Producers.Metro Goldwyn Mayer",
+      "Comedy.Loss in $.2451284",
+      "Comedy.Actors.Gene Kelly",
+      "Comedy.Actors.Leslie Caron"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Ray Ashley",
+    "imports": [
+      "Comedy.Producers.Little Fugitive Production Company",
+      "Comedy.Profit in $.132373",
+      "Comedy.Actors.Richard Brewster",
+      "Comedy.Actors.Winifred Cushing"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Morris Engel",
+    "imports": [
+      "Comedy.Producers.Little Fugitive Production Company",
+      "Comedy.Profit in $.132373",
+      "Comedy.Actors.Richard Brewster",
+      "Comedy.Actors.Winifred Cushing"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Alfred Hitchcock",
+    "imports": [
+      "Comedy.Producers.Alfred J Hitchcock Productions",
+      "Comedy.Profit in $.36032034",
+      "Comedy.Actors.James Stewart",
+      "Comedy.Actors.Grace Kelly"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Nicholas Ray",
+    "imports": [
+      "Comedy.Producers.Warner Bros",
+      "Comedy.Loss in $.1300037",
+      "Comedy.Actors.James Dean",
+      "Comedy.Actors.Natalie Wood"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Jean-Luc Godard",
+    "imports": [
+      "Comedy.Producers.Les Productions Georges de Beauregard",
+      "Comedy.Loss in $.155704",
+      "Comedy.Actors.Michel Subor",
+      "Comedy.Actors.Anna Karina"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.John Ford",
+    "imports": [
+      "Comedy.Producers.Metro Goldwyn Mayer",
+      "Comedy.Loss in $.14923271",
+      "Comedy.Actors.Carroll Baker",
+      "Comedy.Actors.Lee J Cobb"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Henry Hathaway",
+    "imports": [
+      "Comedy.Producers.Metro Goldwyn Mayer",
+      "Comedy.Loss in $.14923271",
+      "Comedy.Actors.Carroll Baker",
+      "Comedy.Actors.Lee J Cobb"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Robert Mulligan",
+    "imports": [
+      "Comedy.Producers.Pakula-Mulligan",
+      "Comedy.Loss in $.1400854",
+      "Comedy.Actors.Gregory Peck",
+      "Comedy.Actors.John Megna"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Alejandro Jodorowsky",
+    "imports": [
+      "Comedy.Producers.Producciones Panicas",
+      "Comedy.Loss in $.839532",
+      "Comedy.Actors.Alejandro Jodorowsky",
+      "Comedy.Actors.Brontis Jodorowsky"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Guy Hamilton",
+    "imports": [
+      "Comedy.Producers.Eon Productions",
+      "Comedy.Profit in $.28377836",
+      "Comedy.Actors.Roger Moore",
+      "Comedy.Actors.Yaphet Kotto"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Francis Ford Coppola",
+    "imports": [
+      "Comedy.Producers.Paramount Pictures",
+      "Comedy.Profit in $.35035783",
+      "Comedy.Actors.Al Pacino",
+      "Comedy.Actors.Robert Duvall"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Robert Aldrich",
+    "imports": [
+      "Comedy.Producers.Paramount Pictures",
+      "Comedy.Profit in $.40108075",
+      "Comedy.Actors.Burt Reynolds",
+      "Comedy.Actors.Eddie Albert"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Brian De Palma",
+    "imports": [
+      "Comedy.Producers.Red Bank Films",
+      "Comedy.Profit in $.32000000",
+      "Comedy.Actors.Sissy Spacek",
+      "Comedy.Actors.Piper Laurie"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Blake Edwards",
+    "imports": [
+      "Comedy.Producers.Amjo Productions",
+      "Comedy.Profit in $.27833201",
+      "Comedy.Actors.Peter Sellers",
+      "Comedy.Actors.Herbert Lom"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Mel Brooks",
+    "imports": [
+      "Comedy.Producers.Crossbow Productions",
+      "Comedy.Profit in $.31745695",
+      "Comedy.Actors.Mel Brooks",
+      "Comedy.Actors.Marty Feldman"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Peter Yates",
+    "imports": [
+      "Comedy.Producers.Columbia Pictures",
+      "Comedy.Profit in $.38346365",
+      "Comedy.Actors.Jacqueline Bisset",
+      "Comedy.Actors.Nick Nolte"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.George Lucas",
+    "imports": [
+      "Comedy.Producers.Lucasfilm",
+      "Comedy.Profit in $.764768912",
+      "Comedy.Actors.Mark Hamill",
+      "Comedy.Actors.Harrison Ford"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Steve Rash",
+    "imports": [
+      "Comedy.Producers.Innovisions",
+      "Comedy.Profit in $.13163400",
+      "Comedy.Actors.Gary Busey",
+      "Comedy.Actors.Don Stroud"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Hal Needham",
+    "imports": [
+      "Comedy.Producers.Warner Bros",
+      "Comedy.Profit in $.72000000",
+      "Comedy.Actors.Burt Reynolds",
+      "Comedy.Actors.Jan Michael Vincent"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Richard Marquand",
+    "imports": [
+      "Comedy.Producers.David Foster Productions",
+      "Comedy.Profit in $.8864985",
+      "Comedy.Actors.Katharine Ross",
+      "Comedy.Actors.Sam Elliott"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Ivan Reitman",
+    "imports": [
+      "Comedy.Producers.Canadian Film Development Corporation (CFDC)",
+      "Comedy.Profit in $.41814003",
+      "Comedy.Actors.Bill Murray",
+      "Comedy.Actors.Harvey Atkin"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Don Coscarelli",
+    "imports": [
+      "Comedy.Producers.New Breed Productions Inc",
+      "Comedy.Profit in $.11688469",
+      "Comedy.Actors.A Michael Baldwin",
+      "Comedy.Actors.Bill Thornbury"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.John Frankenheimer",
+    "imports": [
+      "Comedy.Producers.Paramount Pictures",
+      "Comedy.Profit in $.6389402",
+      "Comedy.Actors.Talia Shire",
+      "Comedy.Actors.Robert Foxworth"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Buddy Van Horn",
+    "imports": [
+      "Comedy.Producers.The Malpaso Company",
+      "Comedy.Profit in $.55687344",
+      "Comedy.Actors.Clint Eastwood",
+      "Comedy.Actors.Sondra Locke"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Lucio Fulci",
+    "imports": [
+      "Comedy.Producers.Fulvia Film",
+      "Comedy.Loss in $.276157",
+      "Comedy.Actors.Catriona MacColl",
+      "Comedy.Actors.David Warbeck"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Steve Miner",
+    "imports": [
+      "Comedy.Producers.Georgetown Productions Inc",
+      "Comedy.Profit in $.20472776",
+      "Comedy.Actors.Amy Steel",
+      "Comedy.Actors.John Furey"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Ingmar Bergman",
+    "imports": [
+      "Comedy.Producers.Cinematograph AB",
+      "Comedy.Profit in $.795771",
+      "Comedy.Actors.Kristina Adolphson",
+      "Comedy.Actors.Börje Ahlstedt"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Ralph Bakshi",
+    "imports": [
+      "Comedy.Producers.Polyc International BV",
+      "Comedy.Loss in $.439117",
+      "Comedy.Actors.Randy Norton",
+      "Comedy.Actors.Cynthia Leake"
+    ]
+  },
+  {
+    "name": "Comedy.Directors.Tom Tataranowicz",
+    "imports": [
+      "Comedy.Producers.Polyc International BV",
+      "Comedy.Loss in $.439117",
+      "Comedy.Actors.Randy Norton",
+      "Comedy.Actors.Cynthia Leake"
+    ]
+  },
+  {
+    "name": "Comedy.Producers.Charles Chaplin Productions",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Producers.Cinematograph AB",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Producers.Polyc International BV",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Producers.Warner Bros",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Producers.Metro Goldwyn Mayer",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Producers.Little Fugitive Production Company",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Producers.Alfred J Hitchcock Productions",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Producers.Warner Bros",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Producers.Les Productions Georges de Beauregard",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Producers.Metro Goldwyn Mayer",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Producers.Pakula-Mulligan",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Producers.Producciones Panicas",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Producers.Eon Productions",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Producers.Paramount Pictures",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Producers.Red Bank Films",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Producers.Amjo Productions",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Producers.Crossbow Productions",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Producers.Columbia Pictures",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Producers.Lucasfilm",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Producers.Innovisions",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Producers.David Foster Productions",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Producers.Canadian Film Development Corporation (CFDC)",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Producers.New Breed Productions Inc",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Producers.The Malpaso Company",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Producers.Fulvia Film",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Producers.Georgetown Productions Inc",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Virginia Cherrill",
+    "imports": ["Comedy.Actors.Florence Lee"]
+  },
+  {
+    "name": "Comedy.Actors.Humphrey Bogart",
+    "imports": ["Comedy.Actors.Walter Huston"]
+  },
+  {
+    "name": "Comedy.Actors.Gene Kelly",
+    "imports": ["Comedy.Actors.Leslie Caron"]
+  },
+  {
+    "name": "Comedy.Actors.Richard Brewster",
+    "imports": ["Comedy.Actors.Winifred Cushing"]
+  },
+  {
+    "name": "Comedy.Actors.Richard Brewster",
+    "imports": ["Comedy.Actors.Winifred Cushing"]
+  },
+  {
+    "name": "Comedy.Actors.James Stewart",
+    "imports": ["Comedy.Actors.Grace Kelly"]
+  },
+  {
+    "name": "Comedy.Actors.James Dean",
+    "imports": ["Comedy.Actors.Natalie Wood"]
+  },
+  {
+    "name": "Comedy.Actors.Michel Subor",
+    "imports": ["Comedy.Actors.Anna Karina"]
+  },
+  {
+    "name": "Comedy.Actors.Carroll Baker",
+    "imports": ["Comedy.Actors.Lee J Cobb"]
+  },
+  {
+    "name": "Comedy.Actors.Gregory Peck",
+    "imports": ["Comedy.Actors.John Megna"]
+  },
+  {
+    "name": "Comedy.Actors.Alejandro Jodorowsky",
+    "imports": ["Comedy.Actors.Brontis Jodorowsky"]
+  },
+  {
+    "name": "Comedy.Actors.Roger Moore",
+    "imports": ["Comedy.Actors.Yaphet Kotto"]
+  },
+  {
+    "name": "Comedy.Actors.Al Pacino",
+    "imports": ["Comedy.Actors.Robert Duvall"]
+  },
+  {
+    "name": "Comedy.Actors.Burt Reynolds",
+    "imports": ["Comedy.Actors.Eddie Albert"]
+  },
+  {
+    "name": "Comedy.Actors.Sissy Spacek",
+    "imports": ["Comedy.Actors.Piper Laurie"]
+  },
+  {
+    "name": "Comedy.Actors.Peter Sellers",
+    "imports": ["Comedy.Actors.Herbert Lom"]
+  },
+  {
+    "name": "Comedy.Actors.Mel Brooks",
+    "imports": ["Comedy.Actors.Marty Feldman"]
+  },
+  {
+    "name": "Comedy.Actors.Jacqueline Bisset",
+    "imports": ["Comedy.Actors.Nick Nolte"]
+  },
+  {
+    "name": "Comedy.Actors.Mark Hamill",
+    "imports": ["Comedy.Actors.Harrison Ford"]
+  },
+  {
+    "name": "Comedy.Actors.Gary Busey",
+    "imports": ["Comedy.Actors.Don Stroud"]
+  },
+  {
+    "name": "Comedy.Actors.Burt Reynolds",
+    "imports": ["Comedy.Actors.Jan Michael Vincent"]
+  },
+  {
+    "name": "Comedy.Actors.Katharine Ross",
+    "imports": ["Comedy.Actors.Sam Elliott"]
+  },
+  {
+    "name": "Comedy.Actors.Bill Murray",
+    "imports": ["Comedy.Actors.Harvey Atkin"]
+  },
+  {
+    "name": "Comedy.Actors.A Michael Baldwin",
+    "imports": ["Comedy.Actors.Bill Thornbury"]
+  },
+  {
+    "name": "Comedy.Actors.Talia Shire",
+    "imports": ["Comedy.Actors.Robert Foxworth"]
+  },
+  {
+    "name": "Comedy.Actors.Clint Eastwood",
+    "imports": ["Comedy.Actors.Sondra Locke"]
+  },
+  {
+    "name": "Comedy.Actors.Catriona MacColl",
+    "imports": ["Comedy.Actors.David Warbeck"]
+  },
+  {
+    "name": "Comedy.Actors.Amy Steel",
+    "imports": ["Comedy.Actors.John Furey"]
+  },
+  {
+    "name": "Comedy.Actors.Kristina Adolphson",
+    "imports": ["Comedy.Actors.Börje Ahlstedt"]
+  },
+  {
+    "name": "Comedy.Actors.Randy Norton",
+    "imports": ["Comedy.Actors.Cynthia Leake"]
+  },
+  {
+    "name": "Comedy.Actors.Randy Norton",
+    "imports": ["Comedy.Actors.Cynthia Leake"]
+  },
+  {
+    "name": "Comedy.Loss in $.1453992",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Loss in $.2784705",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Loss in $.2451284",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Profit in $.132373",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Profit in $.132373",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Profit in $.36032034",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Loss in $.1300037",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Loss in $.155704",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Loss in $.14923271",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Loss in $.14923271",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Loss in $.1400854",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Loss in $.839532",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Profit in $.28377836",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Profit in $.35035783",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Profit in $.40108075",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Profit in $.32000000",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Profit in $.27833201",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Profit in $.31745695",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Profit in $.38346365",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Profit in $.764768912",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Profit in $.13163400",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Profit in $.72000000",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Profit in $.8864985",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Profit in $.41814003",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Profit in $.11688469",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Profit in $.6389402",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Profit in $.55687344",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Loss in $.276157",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Profit in $.20472776",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Profit in $.795771",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Loss in $.439117",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Loss in $.439117",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Florence Lee",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Walter Huston",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Leslie Caron",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Winifred Cushing",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Winifred Cushing",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Grace Kelly",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Natalie Wood",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Anna Karina",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Lee J Cobb",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.John Megna",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Brontis Jodorowsky",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Yaphet Kotto",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Robert Duvall",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Eddie Albert",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Piper Laurie",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Herbert Lom",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Marty Feldman",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Nick Nolte",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Harrison Ford",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Don Stroud",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Jan Michael Vincent",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Sam Elliott",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Harvey Atkin",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Bill Thornbury",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Robert Foxworth",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Sondra Locke",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.David Warbeck",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.John Furey",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Börje Ahlstedt",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Cynthia Leake",
+    "imports": []
+  },
+  {
+    "name": "Comedy.Actors.Cynthia Leake",
+    "imports": []
+  }
+]

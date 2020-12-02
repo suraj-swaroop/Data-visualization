@@ -1,0 +1,160 @@
+[
+  {
+    "name": "Musical.Directors.Jean-Pierre Melville",
+    "imports": [
+      "Musical.Producers.Organisation Générale Cinématographique",
+      "Musical.Loss in $.3134414",
+      "Musical.Actors.Isabelle Corey",
+      "Musical.Actors.Daniel Cauchy"
+    ]
+  },
+  {
+    "name": "Musical.Directors.Martin Scorsese",
+    "imports": [
+      "Musical.Producers.Warner Bros",
+      "Musical.Loss in $.458869",
+      "Musical.Actors.Robert De Niro",
+      "Musical.Actors.Harvey Keitel"
+    ]
+  },
+  {
+    "name": "Musical.Directors.Samuel Fuller",
+    "imports": [
+      "Musical.Producers.Lorimar Productions",
+      "Musical.Profit in $.2706823",
+      "Musical.Actors.Lee Marvin",
+      "Musical.Actors.Mark Hamill"
+    ]
+  },
+  {
+    "name": "Musical.Directors.Albert Magnoli",
+    "imports": [
+      "Musical.Producers.Warner Bros",
+      "Musical.Profit in $.63061906",
+      "Musical.Actors.Prince",
+      "Musical.Actors.Apollonia Kotero"
+    ]
+  },
+  {
+    "name": "Musical.Directors.Norman Jewison",
+    "imports": [
+      "Musical.Producers.Columbia Pictures",
+      "Musical.Profit in $.15821347",
+      "Musical.Actors.Howard E Rollins Jr",
+      "Musical.Actors.Adolph Caesar"
+    ]
+  },
+  {
+    "name": "Musical.Directors.Peter Werner",
+    "imports": [
+      "Musical.Producers.Orion Pictures",
+      "Musical.Loss in $.5122429",
+      "Musical.Actors.Charlie Sheen",
+      "Musical.Actors.DB Sweeney"
+    ]
+  },
+  {
+    "name": "Musical.Producers.Organisation Générale Cinématographique",
+    "imports": []
+  },
+  {
+    "name": "Musical.Producers.Warner Bros",
+    "imports": []
+  },
+  {
+    "name": "Musical.Producers.Lorimar Productions",
+    "imports": []
+  },
+  {
+    "name": "Musical.Producers.Columbia Pictures",
+    "imports": []
+  },
+  {
+    "name": "Musical.Producers.Orion Pictures",
+    "imports": []
+  },
+  {
+    "name": "Musical.Loss in $.3134414",
+    "imports": []
+  },
+  {
+    "name": "Musical.Loss in $.458869",
+    "imports": []
+  },
+  {
+    "name": "Musical.Profit in $.2706823",
+    "imports": []
+  },
+  {
+    "name": "Musical.Profit in $.63061906",
+    "imports": []
+  },
+  {
+    "name": "Musical.Profit in $.15821347",
+    "imports": []
+  },
+  {
+    "name": "Musical.Loss in $.5122429",
+    "imports": []
+  },
+  {
+    "name": "Musical.Actors.Isabelle Corey",
+    "imports": [
+      "Musical.Actors.Daniel Cauchy"
+    ]
+  },
+  {
+    "name": "Musical.Actors.Robert De Niro",
+    "imports": [
+      "Musical.Actors.Harvey Keitel"
+    ]
+  },
+  {
+    "name": "Musical.Actors.Lee Marvin",
+    "imports": [
+      "Musical.Actors.Mark Hamill"
+    ]
+  },
+  {
+    "name": "Musical.Actors.Prince",
+    "imports": [
+      "Musical.Actors.Apollonia Kotero"
+    ]
+  },
+  {
+    "name": "Musical.Actors.Howard E Rollins Jr",
+    "imports": [
+      "Musical.Actors.Adolph Caesar"
+    ]
+  },
+  {
+    "name": "Musical.Actors.Charlie Sheen",
+    "imports": [
+      "Musical.Actors.DB Sweeney"
+    ]
+  },
+  {
+    "name": "Musical.Actors.Daniel Cauchy",
+    "imports": []
+  },
+  {
+    "name": "Musical.Actors.Harvey Keitel",
+    "imports": []
+  },
+  {
+    "name": "Musical.Actors.Mark Hamill",
+    "imports": []
+  },
+  {
+    "name": "Musical.Actors.Apollonia Kotero",
+    "imports": []
+  },
+  {
+    "name": "Musical.Actors.Adolph Caesar",
+    "imports": []
+  },
+  {
+    "name": "Musical.Actors.DB Sweeney",
+    "imports": []
+  }
+]

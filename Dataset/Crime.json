@@ -1,0 +1,844 @@
+[
+  {
+    "name": "Crime.Directors.William Cottrell",
+    "imports": [
+      "Crime.Producers.Walt Disney Productions",
+      "Crime.Profit in $.183426486",
+      "Crime.Actors.Roy Atwell",
+      "Crime.Actors.Stuart Buchanan"
+    ]
+  },
+  {
+    "name": "Crime.Directors.David Hand",
+    "imports": [
+      "Crime.Producers.Walt Disney Productions",
+      "Crime.Profit in $.183426486",
+      "Crime.Actors.Roy Atwell",
+      "Crime.Actors.Stuart Buchanan"
+    ]
+  },
+  {
+    "name": "Crime.Directors.Victor Fleming",
+    "imports": [
+      "Crime.Producers.Selznick International Pictures",
+      "Crime.Profit in $.398375579",
+      "Crime.Actors.Thomas Mitchell",
+      "Crime.Actors.Barbara O Neil"
+    ]
+  },
+  {
+    "name": "Crime.Directors.George Cukor",
+    "imports": [
+      "Crime.Producers.Selznick International Pictures",
+      "Crime.Profit in $.398375579",
+      "Crime.Actors.Thomas Mitchell",
+      "Crime.Actors.Barbara O Neil"
+    ]
+  },
+  {
+    "name": "Crime.Directors.Alfred Hitchcock",
+    "imports": [
+      "Crime.Producers.Alfred J Hitchcock Productions",
+      "Crime.Profit in $.5317389",
+      "Crime.Actors.James Stewart",
+      "Crime.Actors.Kim Novak"
+    ]
+  },
+  {
+    "name": "Crime.Directors.David Lean",
+    "imports": [
+      "Crime.Producers.Metro-Goldwyn-Mayer (MGM)",
+      "Crime.Profit in $.100918564",
+      "Crime.Actors.Omar Sharif",
+      "Crime.Actors.Julie Christie"
+    ]
+  },
+  {
+    "name": "Crime.Directors.Wolfgang Reitherman",
+    "imports": [
+      "Crime.Producers.Walt Disney Animation Studios",
+      "Crime.Profit in $.206310084",
+      "Crime.Actors.Phil Harris",
+      "Crime.Actors.Sebastian Cabot"
+    ]
+  },
+  {
+    "name": "Crime.Directors.James Algar",
+    "imports": [
+      "Crime.Producers.Walt Disney Animation Studios",
+      "Crime.Profit in $.206310084",
+      "Crime.Actors.Phil Harris",
+      "Crime.Actors.Sebastian Cabot"
+    ]
+  },
+  {
+    "name": "Crime.Directors.Mel Brooks",
+    "imports": [
+      "Crime.Producers.Crossbow Productions",
+      "Crime.Loss in $.565857",
+      "Crime.Actors.Zero Mostel",
+      "Crime.Actors.Gene Wilder"
+    ]
+  },
+  {
+    "name": "Crime.Directors.J Lee Thompson",
+    "imports": [
+      "Crime.Producers.Twentieth Century Fox",
+      "Crime.Profit in $.7343472",
+      "Crime.Actors.Roddy McDowall",
+      "Crime.Actors.Don Murray"
+    ]
+  },
+  {
+    "name": "Crime.Directors.Francis Ford Coppola",
+    "imports": [
+      "Crime.Producers.Paramount Pictures",
+      "Crime.Profit in $.240120974",
+      "Crime.Actors.Marlon Brando",
+      "Crime.Actors.Al Pacino"
+    ]
+  },
+  {
+    "name": "Crime.Directors.Peter Weir",
+    "imports": [
+      "Crime.Producers.British Empire Films Australia",
+      "Crime.Loss in $.238839",
+      "Crime.Actors.Rachel Roberts",
+      "Crime.Actors.Vivean Gray"
+    ]
+  },
+  {
+    "name": "Crime.Directors.John Guillermin",
+    "imports": [
+      "Crime.Producers.Dino De Laurentiis Company",
+      "Crime.Profit in $.28614445",
+      "Crime.Actors.Jeff Bridges",
+      "Crime.Actors.Charles Grodin"
+    ]
+  },
+  {
+    "name": "Crime.Directors.John Boorman",
+    "imports": [
+      "Crime.Producers.Warner Bros",
+      "Crime.Profit in $.16749142",
+      "Crime.Actors.Linda Blair",
+      "Crime.Actors.Richard Burton"
+    ]
+  },
+  {
+    "name": "Crime.Directors.Rospo Pallenberg",
+    "imports": [
+      "Crime.Producers.Warner Bros",
+      "Crime.Profit in $.16749142",
+      "Crime.Actors.Linda Blair",
+      "Crime.Actors.Richard Burton"
+    ]
+  },
+  {
+    "name": "Crime.Directors.Hal Ashby",
+    "imports": [
+      "Crime.Producers.Jerome Hellman Productions",
+      "Crime.Profit in $.29653905",
+      "Crime.Actors.Jane Fonda",
+      "Crime.Actors.Jon Voight"
+    ]
+  },
+  {
+    "name": "Crime.Directors.Woody Allen",
+    "imports": [
+      "Crime.Producers.Jack Rollins & Charles H Joffe Productions",
+      "Crime.Profit in $.432366",
+      "Crime.Actors.Kristin Griffith",
+      "Crime.Actors.Mary Beth Hurt"
+    ]
+  },
+  {
+    "name": "Crime.Directors.Sidney Lumet",
+    "imports": [
+      "Crime.Producers.Universal Pictures",
+      "Crime.Loss in $.2950947",
+      "Crime.Actors.Diana Ross",
+      "Crime.Actors.Michael Jackson"
+    ]
+  },
+  {
+    "name": "Crime.Directors.John Carpenter",
+    "imports": [
+      "Crime.Producers.AVCO Embassy Pictures",
+      "Crime.Profit in $.20448782",
+      "Crime.Actors.Adrienne Barbeau",
+      "Crime.Actors.Jamie Lee Curtis"
+    ]
+  },
+  {
+    "name": "Crime.Directors.Ken Shapiro",
+    "imports": ["Crime.Producers.Twentieth Century Fox", "Crime.Profit in $.18154211", "Crime.Actors.Chevy Chase","Crime.Actors.Patti D Arbanville"]
+  },
+  {
+    "name": "Crime.Directors.Peter Hyams",
+    "imports": [
+      "Crime.Producers.The Ladd Company",
+      "Crime.Profit in $.1374595",
+      "Crime.Actors.Sean Connery",
+      "Crime.Actors.Peter Boyle"
+    ]
+  },
+  {
+    "name": "Crime.Directors.Ken Finkleman",
+    "imports": [
+      "Crime.Producers.Paramount Pictures",
+      "Crime.Profit in $.12150534",
+      "Crime.Actors.Lloyd Bridges",
+      "Crime.Actors.Raymond Burr"
+    ]
+  },
+  {
+    "name": "Crime.Directors.Colin Higgins",
+    "imports": [
+      "Crime.Producers.Universal Pictures",
+      "Crime.Profit in $.34701637",
+      "Crime.Actors.Burt Reynolds",
+      "Crime.Actors.Dolly Parton"
+    ]
+  },
+  {
+    "name": "Crime.Directors.Alan Parker",
+    "imports": [
+      "Crime.Producers.Goldcrest Films International",
+      "Crime.Profit in $.10258911",
+      "Crime.Actors.Bob Geldof",
+      "Crime.Actors.Christine Hargreaves"
+    ]
+  },
+  {
+    "name": "Crime.Directors.Sylvester Stallone",
+    "imports": [
+      "Crime.Producers.Chartoff-Winkler Productions",
+      "Crime.Profit in $.108049125",
+      "Crime.Actors.Sylvester Stallone",
+      "Crime.Actors.Talia Shire"
+    ]
+  },
+  {
+    "name": "Crime.Directors.Thomas K Avildsen",
+    "imports": [
+      "Crime.Producers.C & C Brown Production",
+      "Crime.Profit in $.14134374",
+      "Crime.Actors.Toni Attell",
+      "Crime.Actors.Mike Bacarella"
+    ]
+  },
+  {
+    "name": "Crime.Directors.Sydney Pollack",
+    "imports": [
+      "Crime.Producers.Columbia Pictures",
+      "Crime.Profit in $.156200000",
+      "Crime.Actors.Dustin Hoffman",
+      "Crime.Actors.Jessica Lange"
+    ]
+  },
+  {
+    "name": "Crime.Directors.Richard Fleischer",
+    "imports": [
+      "Crime.Producers.De Laurentiis Entertainment Group (DEG)",
+      "Crime.Profit in $.333135",
+      "Crime.Actors.Tony Roberts",
+      "Crime.Actors.Tess Harper"
+    ]
+  },
+  {
+    "name": "Crime.Directors.Joel Schumacher",
+    "imports": [
+      "Crime.Producers.RKO Pictures",
+      "Crime.Profit in $.8134627",
+      "Crime.Actors.Max Gail",
+      "Crime.Actors.Adam Baldwin"
+    ]
+  },
+  {
+    "name": "Crime.Directors.Brian G Hutton",
+    "imports": [
+      "Crime.Producers.City Films",
+      "Crime.Profit in $.9445927",
+      "Crime.Actors.Tom Selleck",
+      "Crime.Actors.Bess Armstrong"
+    ]
+  },
+  {
+    "name": "Crime.Directors.Joseph Sargent",
+    "imports": [
+      "Crime.Producers.Universal Pictures",
+      "Crime.Profit in $.670680",
+      "Crime.Actors.Cristina Raines",
+      "Crime.Actors.Joe Lambie"
+    ]
+  },
+  {
+    "name": "Crime.Directors.Richard Marquand",
+    "imports": [
+      "Crime.Producers.Lucasfilm",
+      "Crime.Profit in $.442847111",
+      "Crime.Actors.Mark Hamill",
+      "Crime.Actors.Harrison Ford"
+    ]
+  },
+  {
+    "name": "Crime.Directors.Hal Needham",
+    "imports": [
+      "Crime.Producers.Arcafin BV",
+      "Crime.Profit in $.8078073",
+      "Crime.Actors.Burt Reynolds",
+      "Crime.Actors.Dom DeLuise"
+    ]
+  },
+  {
+    "name": "Crime.Directors.Ralph Bakshi",
+    "imports": [
+      "Crime.Producers.Arcafin BV",
+      "Crime.Profit in $.8078073",
+      "Crime.Actors.Burt Reynolds",
+      "Crime.Actors.Dom DeLuise"
+    ]
+  },
+  {
+    "name": "Crime.Directors.Thom Eberhardt",
+    "imports": [
+      "Crime.Producers.Atlantic Entertainment Group",
+      "Crime.Profit in $.13718922",
+      "Crime.Actors.Robert Beltran",
+      "Crime.Actors.Catherine Mary Stewart"
+    ]
+  },
+  {
+    "name": "Crime.Producers.Walt Disney Productions",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.Selznick International Pictures",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.Alfred J Hitchcock Productions",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.Metro-Goldwyn-Mayer (MGM)",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.Walt Disney Animation Studios",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.Crossbow Productions",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.Twentieth Century Fox",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.Paramount Pictures",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.British Empire Films Australia",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.Dino De Laurentiis Company",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.Warner Bros",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.Jerome Hellman Productions",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.Jack Rollins & Charles H Joffe Productions",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.AVCO Embassy Pictures",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.The Ladd Company",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.Paramount Pictures",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.Universal Pictures",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.Goldcrest Films International",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.Chartoff-Winkler Productions",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.C & C Brown Production",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.Columbia Pictures",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.De Laurentiis Entertainment Group (DEG)",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.RKO Pictures",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.City Films",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.Lucasfilm",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.Arcafin BV",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.Atlantic Entertainment Group",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.Edge City Productions",
+    "imports": []
+  },
+  {
+    "name": "Crime.Producers.Dino De Laurentiis Company",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.183426486",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.398375579",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.5317389",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.100918564",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.206310084",
+    "imports": []
+  },
+  {
+    "name": "Crime.Loss in $.565857",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.7343472",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.240120974",
+    "imports": []
+  },
+  {
+    "name": "Crime.Loss in $.238839",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.28614445",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.16749142",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.29653905",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.432366",
+    "imports": []
+  },
+  {
+    "name": "Crime.Loss in $.2950947",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.20448782",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.18154211",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.1374595",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.12150534",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.34701637",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.10258911",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.108049125",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.14134374",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.156200000",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.333135",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.8134627",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.9445927",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.670680",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.442847111",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.8078073",
+    "imports": []
+  },
+  {
+    "name": "Crime.Profit in $.13718922",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Roy Atwell",
+    "imports": [
+      "Crime.Actors.Stuart Buchanan"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Thomas Mitchell",
+    "imports": ["Crime.Actors.Barbara O Neil"]
+  },
+  {
+    "name": "Crime.Actors.James Stewart",
+    "imports": [
+      "Crime.Actors.Kim Novak"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Omar Sharif",
+    "imports": [
+      "Crime.Actors.Julie Christie"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Phil Harris",
+    "imports": [
+      "Crime.Actors.Sebastian Cabot"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Zero Mostel",
+    "imports": [
+      "Crime.Actors.Gene Wilder"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Roddy McDowall",
+    "imports": [
+      "Crime.Actors.Don Murray"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Marlon Brando",
+    "imports": [
+      "Crime.Actors.Al Pacino"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Rachel Roberts",
+    "imports": [
+      "Crime.Actors.Vivean Gray"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Jeff Bridges",
+    "imports": [
+      "Crime.Actors.Charles Grodin"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Linda Blair",
+    "imports": [
+      "Crime.Actors.Richard Burton"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Jane Fonda",
+    "imports": [
+      "Crime.Actors.Jon Voight"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Kristin Griffith",
+    "imports": [
+      "Crime.Actors.Mary Beth Hurt"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Diana Ross",
+    "imports": [
+      "Crime.Actors.Michael Jackson"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Adrienne Barbeau",
+    "imports": [
+      "Crime.Actors.Jamie Lee Curtis"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Chevy Chase",
+    "imports": ["Crime.Actors.Patti D Arbanville"]
+  },
+  {
+    "name": "Crime.Actors.Sean Connery",
+    "imports": [
+      "Crime.Actors.Peter Boyle"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Lloyd Bridges",
+    "imports": [
+      "Crime.Actors.Raymond Burr"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Burt Reynolds",
+    "imports": [
+      "Crime.Actors.Dolly Parton"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Bob Geldof",
+    "imports": [
+      "Crime.Actors.Christine Hargreaves"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Sylvester Stallone",
+    "imports": [
+      "Crime.Actors.Talia Shire"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Toni Attell",
+    "imports": [
+      "Crime.Actors.Mike Bacarella"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Dustin Hoffman",
+    "imports": [
+      "Crime.Actors.Jessica Lange"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Tony Roberts",
+    "imports": [
+      "Crime.Actors.Tess Harper"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Max Gail",
+    "imports": [
+      "Crime.Actors.Adam Baldwin"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Tom Selleck",
+    "imports": [
+      "Crime.Actors.Bess Armstrong"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Cristina Raines",
+    "imports": [
+      "Crime.Actors.Joe Lambie"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Mark Hamill",
+    "imports": [
+      "Crime.Actors.Harrison Ford"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Burt Reynolds",
+    "imports": [
+      "Crime.Actors.Dom DeLuise"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Robert Beltran",
+    "imports": [
+      "Crime.Actors.Catherine Mary Stewart"
+    ]
+  },
+  {
+    "name": "Crime.Actors.Stuart Buchanan",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Barbara O Neil",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Kim Novak",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Julie Christie",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Sebastian Cabot",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Gene Wilder",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Don Murray",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Al Pacino",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Vivean Gray",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Charles Grodin",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Richard Burton",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Jon Voight",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Mary Beth Hurt",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Michael Jackson",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Jamie Lee Curtis",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Patti D Arbanville",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Peter Boyle",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Raymond Burr",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Dolly Parton",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Christine Hargreaves",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Talia Shire",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Mike Bacarella",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Jessica Lange",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Tess Harper",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Adam Baldwin",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Bess Armstrong",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Joe Lambie",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Harrison Ford",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Dom DeLuise",
+    "imports": []
+  },
+  {
+    "name": "Crime.Actors.Catherine Mary Stewart",
+    "imports": []
+  }
+]

@@ -1,0 +1,620 @@
+[
+  {
+    "name": "Mystery.Directors.George Cukor",
+    "imports": [
+      "Mystery.Producers.Transcona Enterprises",
+      "Mystery.Loss in $.670880",
+      "Mystery.Actors.Judy Garland",
+      "Mystery.Actors.James Mason"
+    ]
+  },
+  {
+    "name": "Mystery.Directors.Steven Spielberg",
+    "imports": [
+      "Mystery.Producers.Zanuck/Brown Productions",
+      "Mystery.Profit in $.464961371",
+      "Mystery.Actors.Roy Scheider",
+      "Mystery.Actors.Robert Shaw"
+    ]
+  },
+  {
+    "name": "Mystery.Directors.James Fargo",
+    "imports": [
+      "Mystery.Producers.Warner Bros",
+      "Mystery.Profit in $.80196485",
+      "Mystery.Actors.Clint Eastwood",
+      "Mystery.Actors.Sondra Locke"
+    ]
+  },
+  {
+    "name": "Mystery.Directors.Don Siegel",
+    "imports": [
+      "Mystery.Producers.Paramount Pictures",
+      "Mystery.Profit in $.35004381",
+      "Mystery.Actors.Clint Eastwood",
+      "Mystery.Actors.Patrick McGoohan"
+    ]
+  },
+  {
+    "name": "Mystery.Directors.Walter Hill",
+    "imports": [
+      "Mystery.Producers.Paramount Pictures",
+      "Mystery.Profit in $.18490039",
+      "Mystery.Actors.Michael Beck",
+      "Mystery.Actors.James Remar"
+    ]
+  },
+  {
+    "name": "Mystery.Directors.Otto Preminger",
+    "imports": [
+      "Mystery.Producers.The Rank Organisation",
+      "Mystery.Loss in $.5123950",
+      "Mystery.Actors.Richard Attenborough",
+      "Mystery.Actors.Joop Doderer"
+    ]
+  },
+  {
+    "name": "Mystery.Directors.Sidney J Furie",
+    "imports": [
+      "Mystery.Producers.American Cinema Productions",
+      "Mystery.Profit in $.4277558",
+      "Mystery.Actors.Barbara Hershey",
+      "Mystery.Actors.Ron Silver"
+    ]
+  },
+  {
+    "name": "Mystery.Directors.Ivan Reitman",
+    "imports": [
+      "Mystery.Producers.Columbia Pictures",
+      "Mystery.Profit in $.75297000",
+      "Mystery.Actors.Bill Murray",
+      "Mystery.Actors.Harold Ramis"
+    ]
+  },
+  {
+    "name": "Mystery.Directors.Hal Ashby",
+    "imports": [
+      "Mystery.Producers.Lorimar Productions",
+      "Mystery.Loss in $.16053539",
+      "Mystery.Actors.Jon Voight",
+      "Mystery.Actors.Ann-Margret"
+    ]
+  },
+  {
+    "name": "Mystery.Directors.Jim Abrahams",
+    "imports": [
+      "Mystery.Producers.Kingsmere Properties",
+      "Mystery.Profit in $.11458340",
+      "Mystery.Actors.Val Kilmer",
+      "Mystery.Actors.Lucy Gutteridge"
+    ]
+  },
+  {
+    "name": "Mystery.Directors.David Zucker",
+    "imports": [
+      "Mystery.Producers.Kingsmere Properties",
+      "Mystery.Profit in $.11458340",
+      "Mystery.Actors.Val Kilmer",
+      "Mystery.Actors.Lucy Gutteridge"
+    ]
+  },
+  {
+    "name": "Mystery.Directors.Richard Donner",
+    "imports": [
+      "Mystery.Producers.Twentieth Century Fox",
+      "Mystery.Loss in $.1568000",
+      "Mystery.Actors.Matthew Broderick",
+      "Mystery.Actors.Rutger Hauer"
+    ]
+  },
+  {
+    "name": "Mystery.Directors.Walter Murch",
+    "imports": [
+      "Mystery.Producers.BMI (No 9) Ltd",
+      "Mystery.Loss in $.13862199",
+      "Mystery.Actors.Fairuza Balk",
+      "Mystery.Actors.Nicol Williamson"
+    ]
+  },
+  {
+    "name": "Mystery.Directors.Jean-Jacques Annaud",
+    "imports": [
+      "Mystery.Producers.Constantin Film",
+      "Mystery.Loss in $.10846513",
+      "Mystery.Actors.Sean Connery",
+      "Mystery.Actors.Christian Slater"
+    ]
+  },
+  {
+    "name": "Mystery.Directors.Joe Dante",
+    "imports": [
+      "Mystery.Producers.Warner Bros",
+      "Mystery.Loss in $.1106190",
+      "Mystery.Actors.Dennis Quaid",
+      "Mystery.Actors.Martin Short"
+    ]
+  },
+  {
+    "name": "Mystery.Directors.Ridley Scott",
+    "imports": [
+      "Mystery.Producers.Columbia Pictures",
+      "Mystery.Loss in $.6721451",
+      "Mystery.Actors.Tom Berenger",
+      "Mystery.Actors.Mimi Rogers"
+    ]
+  },
+  {
+    "name": "Mystery.Directors.Mick Garris",
+    "imports": [
+      "Mystery.Producers.New Line Cinema",
+      "Mystery.Loss in $.686707",
+      "Mystery.Actors.Terrence Mann",
+      "Mystery.Actors.Don Keith Opper"
+    ]
+  },
+  {
+    "name": "Mystery.Directors.Barry Levinson",
+    "imports": [
+      "Mystery.Producers.United Artists",
+      "Mystery.Profit in $.329825435",
+      "Mystery.Actors.Dustin Hoffman",
+      "Mystery.Actors.Tom Cruise"
+    ]
+  },
+  {
+    "name": "Mystery.Directors.Howard Franklin",
+    "imports": [
+      "Mystery.Producers.Devoted Productions",
+      "Mystery.Profit in $.260154",
+      "Mystery.Actors.Bill Murray",
+      "Mystery.Actors.Dale Grand"
+    ]
+  },
+  {
+    "name": "Mystery.Directors.Bill Murray",
+    "imports": [
+      "Mystery.Producers.Devoted Productions",
+      "Mystery.Profit in $.260154",
+      "Mystery.Actors.Bill Murray",
+      "Mystery.Actors.Dale Grand"
+    ]
+  },
+  {
+    "name": "Mystery.Directors.Jack Nicholson",
+    "imports": [
+      "Mystery.Producers.88 Productions",
+      "Mystery.Loss in $.8994031",
+      "Mystery.Actors.Jack Nicholson",
+      "Mystery.Actors.Harvey Keitel"
+    ]
+  },
+  {
+    "name": "Mystery.Directors.Kenneth Branagh",
+    "imports": [
+      "Mystery.Producers.Paramount Pictures",
+      "Mystery.Profit in $.23016380",
+      "Mystery.Actors.Kenneth Branagh",
+      "Mystery.Actors.Andy Garcia"
+    ]
+  },
+  {
+    "name": "Mystery.Directors.Jon Avnet",
+    "imports": [
+      "Mystery.Producers.Universal Pictures",
+      "Mystery.Profit in $.108418501",
+      "Mystery.Actors.Kathy Bates",
+      "Mystery.Actors.Mary Stuart Masterson"
+    ]
+  },
+  {
+    "name": "Mystery.Directors.Randal Kleiser",
+    "imports": [
+      "Mystery.Producers.Walt Disney Pictures",
+      "Mystery.Profit in $.20793160",
+      "Mystery.Actors.Jed",
+      "Mystery.Actors.Klaus Maria Brandauer"
+    ]
+  },
+  {
+    "name": "Mystery.Producers.Transcona Enterprises",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Producers.Zanuck/Brown Productions",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Producers.Warner Bros",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Producers.Paramount Pictures",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Producers.The Rank Organisation",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Producers.American Cinema Productions",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Producers.Columbia Pictures",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Producers.Lorimar Productions",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Producers.Kingsmere Properties",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Producers.Twentieth Century Fox",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Producers.BMI (No 9) Ltd",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Producers.Constantin Film",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Producers.New Line Cinema",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Producers.United Artists",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Producers.Devoted Productions",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Producers.88 Productions",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Producers.Universal Pictures",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Producers.Walt Disney Pictures",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Loss in $.670880",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Profit in $.464961371",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Profit in $.80196485",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Profit in $.35004381",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Profit in $.18490039",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Loss in $.5123950",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Profit in $.4277558",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Profit in $.75297000",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Loss in $.16053539",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Profit in $.11458340",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Profit in $.11458340",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Loss in $.1568000",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Loss in $.13862199",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Loss in $.10846513",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Loss in $.1106190",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Loss in $.6721451",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Loss in $.686707",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Profit in $.329825435",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Profit in $.260154",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Profit in $.260154",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Loss in $.8994031",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Profit in $.23016380",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Profit in $.108418501",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Profit in $.20793160",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Actors.Judy Garland",
+    "imports": [
+      "Mystery.Actors.James Mason"
+    ]
+  },
+  {
+    "name": "Mystery.Actors.Roy Scheider",
+    "imports": [
+      "Mystery.Actors.Robert Shaw"
+    ]
+  },
+  {
+    "name": "Mystery.Actors.Clint Eastwood",
+    "imports": [
+      "Mystery.Actors.Sondra Locke"
+    ]
+  },
+  {
+    "name": "Mystery.Actors.Clint Eastwood",
+    "imports": [
+      "Mystery.Actors.Patrick McGoohan"
+    ]
+  },
+  {
+    "name": "Mystery.Actors.Michael Beck",
+    "imports": [
+      "Mystery.Actors.James Remar"
+    ]
+  },
+  {
+    "name": "Mystery.Actors.Richard Attenborough",
+    "imports": [
+      "Mystery.Actors.Joop Doderer"
+    ]
+  },
+  {
+    "name": "Mystery.Actors.Barbara Hershey",
+    "imports": [
+      "Mystery.Actors.Ron Silver"
+    ]
+  },
+  {
+    "name": "Mystery.Actors.Bill Murray",
+    "imports": [
+      "Mystery.Actors.Harold Ramis"
+    ]
+  },
+  {
+    "name": "Mystery.Actors.Jon Voight",
+    "imports": [
+      "Mystery.Actors.Ann-Margret"
+    ]
+  },
+  {
+    "name": "Mystery.Actors.Val Kilmer",
+    "imports": [
+      "Mystery.Actors.Lucy Gutteridge"
+    ]
+  },
+  {
+    "name": "Mystery.Actors.Matthew Broderick",
+    "imports": [
+      "Mystery.Actors.Rutger Hauer"
+    ]
+  },
+  {
+    "name": "Mystery.Actors.Fairuza Balk",
+    "imports": [
+      "Mystery.Actors.Nicol Williamson"
+    ]
+  },
+  {
+    "name": "Mystery.Actors.Sean Connery",
+    "imports": [
+      "Mystery.Actors.Christian Slater"
+    ]
+  },
+  {
+    "name": "Mystery.Actors.Dennis Quaid",
+    "imports": [
+      "Mystery.Actors.Martin Short"
+    ]
+  },
+  {
+    "name": "Mystery.Actors.Tom Berenger",
+    "imports": [
+      "Mystery.Actors.Mimi Rogers"
+    ]
+  },
+  {
+    "name": "Mystery.Actors.Terrence Mann",
+    "imports": [
+      "Mystery.Actors.Don Keith Opper"
+    ]
+  },
+  {
+    "name": "Mystery.Actors.Dustin Hoffman",
+    "imports": [
+      "Mystery.Actors.Tom Cruise"
+    ]
+  },
+  {
+    "name": "Mystery.Actors.Bill Murray",
+    "imports": [
+      "Mystery.Actors.Dale Grand"
+    ]
+  },
+  {
+    "name": "Mystery.Actors.Bill Murray",
+    "imports": [
+      "Mystery.Actors.Dale Grand"
+    ]
+  },
+  {
+    "name": "Mystery.Actors.Jack Nicholson",
+    "imports": [
+      "Mystery.Actors.Harvey Keitel"
+    ]
+  },
+  {
+    "name": "Mystery.Actors.Kenneth Branagh",
+    "imports": [
+      "Mystery.Actors.Andy Garcia"
+    ]
+  },
+  {
+    "name": "Mystery.Actors.Kathy Bates",
+    "imports": [
+      "Mystery.Actors.Mary Stuart Masterson"
+    ]
+  },
+  {
+    "name": "Mystery.Actors.Jed",
+    "imports": [
+      "Mystery.Actors.Klaus Maria Brandauer"
+    ]
+  },
+  {
+    "name": "Mystery.Actors.James Mason",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Actors.Robert Shaw",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Actors.Sondra Locke",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Actors.Patrick McGoohan",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Actors.James Remar",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Actors.Joop Doderer",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Actors.Ron Silver",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Actors.Harold Ramis",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Actors.Ann-Margret",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Actors.Lucy Gutteridge",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Actors.Lucy Gutteridge",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Actors.Rutger Hauer",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Actors.Nicol Williamson",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Actors.Christian Slater",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Actors.Martin Short",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Actors.Mimi Rogers",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Actors.Don Keith Opper",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Actors.Tom Cruise",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Actors.Dale Grand",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Actors.Dale Grand",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Actors.Harvey Keitel",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Actors.Andy Garcia",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Actors.Mary Stuart Masterson",
+    "imports": []
+  },
+  {
+    "name": "Mystery.Actors.Klaus Maria Brandauer",
+    "imports": []
+  }
+]

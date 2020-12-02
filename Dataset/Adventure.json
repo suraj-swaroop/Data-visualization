@@ -1,0 +1,971 @@
+[
+  {
+    "name": "Adventure.Directors.Clyde Geronimi",
+    "imports": [
+      "Adventure.Producers.Walt Disney Productions",
+      "Adventure.Profit in $.92226535",
+      "Adventure.Actors.Ilene Woods",
+      "Adventure.Actors.Eleanor Audley"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Wilfred Jackson",
+    "imports": [
+      "Adventure.Producers.Walt Disney Productions",
+      "Adventure.Profit in $.92226535",
+      "Adventure.Actors.Ilene Woods",
+      "Adventure.Actors.Eleanor Audley"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.David Lean",
+    "imports": [
+      "Adventure.Producers.Horizon Pictures (II)",
+      "Adventure.Profit in $.30710874",
+      "Adventure.Actors.Peter O Toole",
+      "Adventure.Actors.Alec Guinness"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Robert Stevenson",
+    "imports": [
+      "Adventure.Producers.Walt Disney Productions",
+      "Adventure.Profit in $.97082283",
+      "Adventure.Actors.Julie Andrews",
+      "Adventure.Actors.Dick Van Dyke"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Terence Young",
+    "imports": [
+      "Adventure.Producers.Eon Productions",
+      "Adventure.Profit in $.54595658",
+      "Adventure.Actors.Sean Connery",
+      "Adventure.Actors.Claudine Auger"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Peter Yates",
+    "imports": [
+      "Adventure.Producers.Solar Productions",
+      "Adventure.Loss in $.4988650",
+      "Adventure.Actors.Steve McQueen",
+      "Adventure.Actors.Robert Vaughn"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Brian G Hutton",
+    "imports": [
+      "Adventure.Producers.Metro-Goldwyn-Mayer (MGM)",
+      "Adventure.Profit in $.1200000",
+      "Adventure.Actors.Clint Eastwood",
+      "Adventure.Actors.Telly Savalas"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Franklin J Schaffner",
+    "imports": [
+      "Adventure.Producers.Twentieth Century Fox",
+      "Adventure.Profit in $.49749765",
+      "Adventure.Actors.George C Scott",
+      "Adventure.Actors.Karl Malden"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Robin Hardy",
+    "imports": [
+      "Adventure.Producers.British Lion Film Corporation",
+      "Adventure.Loss in $.711799",
+      "Adventure.Actors.Edward Woodward",
+      "Adventure.Actors.Christopher Lee"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Richard Donner",
+    "imports": [
+      "Adventure.Producers.Twentieth Century Fox",
+      "Adventure.Profit in $.58122980",
+      "Adventure.Actors.Gregory Peck",
+      "Adventure.Actors.Lee Remick"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Clint Eastwood",
+    "imports": [
+      "Adventure.Producers.Warner Bros",
+      "Adventure.Profit in $.20914658",
+      "Adventure.Actors.Clint Eastwood",
+      "Adventure.Actors.Sondra Locke"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Michael Cimino",
+    "imports": [
+      "Adventure.Producers.EMI Films",
+      "Adventure.Profit in $.34074243",
+      "Adventure.Actors.Robert De Niro",
+      "Adventure.Actors.John Cazale"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Hayao Miyazaki",
+    "imports": [
+      "Adventure.Producers.TMS Entertainment",
+      "Adventure.Loss in $.47204800",
+      "Adventure.Actors.Yasuo Yamada",
+      "Adventure.Actors.Eiko Masuyama"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Mike Hodges",
+    "imports": [
+      "Adventure.Producers.Starling Films",
+      "Adventure.Profit in $.7153545",
+      "Adventure.Actors.Sam J Jones",
+      "Adventure.Actors.Melody Anderson"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Alan Myerson",
+    "imports": [
+      "Adventure.Producers.Barry & Enright Productions",
+      "Adventure.Profit in $.23479000",
+      "Adventure.Actors.Sylvia Kristel",
+      "Adventure.Actors.Howard Hesseman"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Carl Reiner",
+    "imports": [
+      "Adventure.Producers.Aspen Film Society",
+      "Adventure.Profit in $.9196170",
+      "Adventure.Actors.Steve Martin",
+      "Adventure.Actors.Rachel Ward"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Barry Levinson",
+    "imports": [
+      "Adventure.Producers.Metro-Goldwyn-Mayer (MGM)",
+      "Adventure.Profit in $.9099953",
+      "Adventure.Actors.Steve Guttenberg",
+      "Adventure.Actors.Daniel Stern"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Steve Miner",
+    "imports": [
+      "Adventure.Producers.Paramount Pictures",
+      "Adventure.Profit in $.34390067",
+      "Adventure.Actors.Terry Ballard",
+      "Adventure.Actors.Richard Brooker"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Curtis Hanson",
+    "imports": [
+      "Adventure.Producers.Tiberius Film Productions",
+      "Adventure.Loss in $.5753859",
+      "Adventure.Actors.Tom Cruise",
+      "Adventure.Actors.Jackie Earle Haley"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Harold Ramis",
+    "imports": ["Adventure.Producers.National Lampoon", "Adventure.Profit in $.46399552", "Adventure.Actors.Chevy Chase","Adventure.Actors.Beverly D Angelo"]
+  },
+  {
+    "name": "Adventure.Directors.John G Avildsen",
+    "imports": [
+      "Adventure.Producers.Columbia Pictures",
+      "Adventure.Profit in $.83119319",
+      "Adventure.Actors.Ralph Macchio",
+      "Adventure.Actors.Pat Morita"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Richard Benjamin",
+    "imports": [
+      "Adventure.Producers.Jaffe-Lansing",
+      "Adventure.Loss in $.454353",
+      "Adventure.Actors.Sean Penn",
+      "Adventure.Actors.Elizabeth McGovern"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.John Milius",
+    "imports": [
+      "Adventure.Producers.United Artists",
+      "Adventure.Profit in $.21376497",
+      "Adventure.Actors.Patrick Swayze",
+      "Adventure.Actors.C Thomas Howell"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.George A Romero",
+    "imports": [
+      "Adventure.Producers.United Film Distribution Company (UFDC)",
+      "Adventure.Profit in $.1500000",
+      "Adventure.Actors.Lori Cardille",
+      "Adventure.Actors.Terry Alexander"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Lewis Teague",
+    "imports": [
+      "Adventure.Producers.SLM Production Group",
+      "Adventure.Profit in $.71773200",
+      "Adventure.Actors.Michael Douglas",
+      "Adventure.Actors.Kathleen Turner"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Ridley Scott",
+    "imports": [
+      "Adventure.Producers.Legend Production Company",
+      "Adventure.Loss in $.8997888",
+      "Adventure.Actors.Tom Cruise",
+      "Adventure.Actors.Mia Sara"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.William Friedkin",
+    "imports": [
+      "Adventure.Producers.SLM Production Group",
+      "Adventure.Profit in $.11307019",
+      "Adventure.Actors.William Petersen",
+      "Adventure.Actors.Willem Dafoe"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Michelle Manning",
+    "imports": [
+      "Adventure.Producers.Paramount Pictures",
+      "Adventure.Loss in $.3052213",
+      "Adventure.Actors.Judd Nelson",
+      "Adventure.Actors.Ally Sheedy"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Jim Jarmusch",
+    "imports": [
+      "Adventure.Producers.Island Pictures",
+      "Adventure.Profit in $.404286",
+      "Adventure.Actors.Tom Waits",
+      "Adventure.Actors.John Lurie"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Rob Reiner",
+    "imports": [
+      "Adventure.Producers.Columbia Pictures",
+      "Adventure.Profit in $.44287414",
+      "Adventure.Actors.Wil Wheaton",
+      "Adventure.Actors.River Phoenix"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Jeff Kanew",
+    "imports": [
+      "Adventure.Producers.Touchstone Pictures",
+      "Adventure.Profit in $.11458229",
+      "Adventure.Actors.Burt Lancaster",
+      "Adventure.Actors.Kirk Douglas"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Graham Baker",
+    "imports": [
+      "Adventure.Producers.American Entertainment Partners II LP",
+      "Adventure.Profit in $.16155047",
+      "Adventure.Actors.James Caan",
+      "Adventure.Actors.Mandy Patinkin"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Garry Marshall",
+    "imports": [
+      "Adventure.Producers.All Girl Productions",
+      "Adventure.Profit in $.37041866",
+      "Adventure.Actors.Bette Midler",
+      "Adventure.Actors.Barbara Hershey"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Penny Marshall",
+    "imports": [
+      "Adventure.Producers.American Entertainment Partners II LP",
+      "Adventure.Profit in $.133927281",
+      "Adventure.Actors.Tom Hanks",
+      "Adventure.Actors.Elizabeth Perkins"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Ron Shelton",
+    "imports": [
+      "Adventure.Producers.The Mount Company",
+      "Adventure.Profit in $.43888729",
+      "Adventure.Actors.Kevin Costner",
+      "Adventure.Actors.Susan Sarandon"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.John R Cherry III",
+    "imports": [
+      "Adventure.Producers.Touchstone Pictures",
+      "Adventure.Profit in $.22202109",
+      "Adventure.Actors.Jim Varney",
+      "Adventure.Actors.Douglas Seale"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Francis Ford Coppola",
+    "imports": [
+      "Adventure.Producers.Lucasfilm",
+      "Adventure.Loss in $.3347362",
+      "Adventure.Actors.Jeff Bridges",
+      "Adventure.Actors.Joan Allen"
+    ]
+  },
+  {
+    "name": "Adventure.Directors.Tim Burton",
+    "imports": [
+      "Adventure.Producers.Warner Bros",
+      "Adventure.Profit in $.376556825",
+      "Adventure.Actors.Michael Keaton",
+      "Adventure.Actors.Jack Nicholson"
+    ]
+  },
+  {
+    "name": "Adventure.Producers.Horizon Pictures (II)",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.Walt Disney Productions",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.Eon Productions",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.Solar Productions",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.Metro-Goldwyn-Mayer (MGM)",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.Twentieth Century Fox",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.British Lion Film Corporation",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.Warner Bros",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.EMI Films",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.TMS Entertainment",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.Starling Films",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.Barry & Enright Productions",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.Aspen Film Society",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.Paramount Pictures",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.Tiberius Film Productions",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.National Lampoon",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.Columbia Pictures",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.Jaffe-Lansing",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.United Artists",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.United Film Distribution Company (UFDC)",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.SLM Production Group",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.Legend Production Company",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.Paramount Pictures",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.Island Pictures",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.Touchstone Pictures",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.American Entertainment Partners II LP",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.All Girl Productions",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.The Mount Company",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Producers.Lucasfilm",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.92226535",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.30710874",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.97082283",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.54595658",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Loss in $.4988650",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.1200000",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.49749765",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Loss in $.711799",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.58122980",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.20914658",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.34074243",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Loss in $.47204800",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.7153545",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.23479000",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.9196170",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.9099953",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.34390067",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Loss in $.5753859",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.46399552",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.83119319",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Loss in $.454353",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.21376497",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.1500000",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.71773200",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Loss in $.8997888",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.11307019",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Loss in $.3052213",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.404286",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.44287414",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.11458229",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.16155047",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.37041866",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.133927281",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.43888729",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.22202109",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Loss in $.3347362",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Profit in $.376556825",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Ilene Woods",
+    "imports": [
+      "Adventure.Actors.Eleanor Audley"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Peter O Toole",
+    "imports": [
+      "Adventure.Actors.Alec Guinness"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Julie Andrews",
+    "imports": [
+      "Adventure.Actors.Dick Van Dyke"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Sean Connery",
+    "imports": [
+      "Adventure.Actors.Claudine Auger"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Steve McQueen",
+    "imports": [
+      "Adventure.Actors.Robert Vaughn"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Clint Eastwood",
+    "imports": [
+      "Adventure.Actors.Telly Savalas"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.George C Scott",
+    "imports": [
+      "Adventure.Actors.Karl Malden"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Edward Woodward",
+    "imports": [
+      "Adventure.Actors.Christopher Lee"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Gregory Peck",
+    "imports": [
+      "Adventure.Actors.Lee Remick"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Clint Eastwood",
+    "imports": [
+      "Adventure.Actors.Sondra Locke"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Robert De Niro",
+    "imports": [
+      "Adventure.Actors.John Cazale"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Yasuo Yamada",
+    "imports": [
+      "Adventure.Actors.Eiko Masuyama"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Sam J Jones",
+    "imports": [
+      "Adventure.Actors.Melody Anderson"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Sylvia Kristel",
+    "imports": [
+      "Adventure.Actors.Howard Hesseman"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Steve Martin",
+    "imports": [
+      "Adventure.Actors.Rachel Ward"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Steve Guttenberg",
+    "imports": [
+      "Adventure.Actors.Daniel Stern"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Terry Ballard",
+    "imports": [
+      "Adventure.Actors.Richard Brooker"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Tom Cruise",
+    "imports": [
+      "Adventure.Actors.Jackie Earle Haley"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Chevy Chase",
+    "imports": ["Adventure.Actors.Beverly D Angelo"]
+  },
+  {
+    "name": "Adventure.Actors.Ralph Macchio",
+    "imports": [
+      "Adventure.Actors.Pat Morita"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Sean Penn",
+    "imports": [
+      "Adventure.Actors.Elizabeth McGovern"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Patrick Swayze",
+    "imports": [
+      "Adventure.Actors.C Thomas Howell"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Lori Cardille",
+    "imports": [
+      "Adventure.Actors.Terry Alexander"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Michael Douglas",
+    "imports": [
+      "Adventure.Actors.Kathleen Turner"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Tom Cruise",
+    "imports": [
+      "Adventure.Actors.Mia Sara"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.William Petersen",
+    "imports": [
+      "Adventure.Actors.Willem Dafoe"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Judd Nelson",
+    "imports": [
+      "Adventure.Actors.Ally Sheedy"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Tom Waits",
+    "imports": [
+      "Adventure.Actors.John Lurie"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Wil Wheaton",
+    "imports": [
+      "Adventure.Actors.River Phoenix"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Burt Lancaster",
+    "imports": [
+      "Adventure.Actors.Kirk Douglas"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.James Caan",
+    "imports": [
+      "Adventure.Actors.Mandy Patinkin"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Bette Midler",
+    "imports": [
+      "Adventure.Actors.Barbara Hershey"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Tom Hanks",
+    "imports": [
+      "Adventure.Actors.Elizabeth Perkins"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Kevin Costner",
+    "imports": [
+      "Adventure.Actors.Susan Sarandon"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Jim Varney",
+    "imports": [
+      "Adventure.Actors.Douglas Seale"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Jeff Bridges",
+    "imports": [
+      "Adventure.Actors.Joan Allen"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Michael Keaton",
+    "imports": [
+      "Adventure.Actors.Jack Nicholson"
+    ]
+  },
+  {
+    "name": "Adventure.Actors.Eleanor Audley",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Alec Guinness",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Dick Van Dyke",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Claudine Auger",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Robert Vaughn",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Telly Savalas",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Karl Malden",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Christopher Lee",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Lee Remick",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Sondra Locke",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.John Cazale",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Eiko Masuyama",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Melody Anderson",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Howard Hesseman",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Rachel Ward",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Daniel Stern",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Richard Brooker",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Jackie Earle Haley",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Beverly D Angelo",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Pat Morita",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Elizabeth McGovern",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.C Thomas Howell",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Terry Alexander",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Kathleen Turner",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Mia Sara",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Willem Dafoe",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Ally Sheedy",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.John Lurie",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.River Phoenix",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Kirk Douglas",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Mandy Patinkin",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Barbara Hershey",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Elizabeth Perkins",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Susan Sarandon",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Douglas Seale",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Joan Allen",
+    "imports": []
+  },
+  {
+    "name": "Adventure.Actors.Jack Nicholson",
+    "imports": []
+  }
+]
